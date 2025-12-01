@@ -4,8 +4,8 @@
     "commit": "546b4d47f80ef802e011a68bba67d1c45ed944b1",
     "round": "test-0",
     "revealed_at_block": 0,
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/exp-build-dockers/5e7eserr2a:546b4d4-test-0"
   },
   "5EhrAFV5Jv": {
     "repo": "404-Repo/404-base-miner",
