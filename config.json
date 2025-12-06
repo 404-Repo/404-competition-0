@@ -1,8 +1,10 @@
 {
   "name": "test",
   "description": "Image-to-3D Gaussian Splat Generation",
-  "start_time": "2025-01-15T10:00:00Z",
-  "end_time": "2025-01-16T10:00:00Z",
+  "first_evaluation_date": "2025-12-06",
+  "last_competition_date": "2026-12-06",
+  "round_start_time": "12:00:00",
+  "finalization_buffer_hours": 1,
   "win_margin": 0.05,
   "prompts_per_round": 128,
   "carryover_prompts": 64
