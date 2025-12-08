@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
+      submission_file: ${{ steps.find-submissions.outputs.file }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,6 +31,7 @@ jobs:
   bake-push:
     name: Bake and push images to Google Cloud
     runs-on: arc-x86
+    timeout-minutes: 5
     needs: setup
     strategy:
       fail-fast: false
@@ -188,5 +190,7 @@ jobs:
         name: Add to summary
         run: |
           echo "### Built Docker Images :whale:" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Submission file:** \`${{ needs.setup.outputs.submission_file }}\`" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "- \`europe-docker.pkg.dev/gen-456515/competition-0/${{ env.MINER_HOTKEY_LOWER }}:${{ env.DOCKER_TAG }}\`" >> $GITHUB_STEP_SUMMARY
