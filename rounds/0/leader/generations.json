@@ -34,5 +34,17 @@
     "png": "https://subnet404.xyz/rounds/0/leader/64166934c81c14cf91ec3a5d7324e157d239bc82b44968822bc3feaa7e35820f.png",
     "generation_time": 89.32628895761445,
     "size": 22040170
+  },
+  "14b83984bdccb2baeadb4902b362449b0cbde5da828d1286b190dbb0c629fcc0": {
+    "ply": "https://subnet404.xyz/rounds/0/leader/14b83984bdccb2baeadb4902b362449b0cbde5da828d1286b190dbb0c629fcc0.ply",
+    "png": "https://subnet404.xyz/rounds/0/leader/14b83984bdccb2baeadb4902b362449b0cbde5da828d1286b190dbb0c629fcc0.png",
+    "generation_time": 76.26658425014466,
+    "size": 47026026
+  },
+  "4e959e0cc2cce7494888b2262f257ce7df663a8e9afe2ca9f3a2fa3379b91dbe": {
+    "ply": "https://subnet404.xyz/rounds/0/leader/4e959e0cc2cce7494888b2262f257ce7df663a8e9afe2ca9f3a2fa3379b91dbe.ply",
+    "png": "https://subnet404.xyz/rounds/0/leader/4e959e0cc2cce7494888b2262f257ce7df663a8e9afe2ca9f3a2fa3379b91dbe.png",
+    "generation_time": 136.73777270829305,
+    "size": 50692458
   }
 }
