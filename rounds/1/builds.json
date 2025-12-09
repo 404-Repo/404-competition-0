@@ -4,15 +4,15 @@
     "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
     "revealed_at_block": 7023081,
     "tag": "97f5a7e-test1-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e7eserr2a:97f5a7e-test1-1"
   },
   "5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL": {
     "repo": "404-Repo/404-base-miner",
     "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
     "revealed_at_block": 7023150,
     "tag": "97f5a7e-test1-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ehrafv5jv:97f5a7e-test1-1"
   }
 }
