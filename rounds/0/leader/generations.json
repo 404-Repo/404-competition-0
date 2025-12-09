@@ -40,5 +40,11 @@
     "png": "https://subnet404.xyz/rounds/0/leader/4e959e0cc2cce7494888b2262f257ce7df663a8e9afe2ca9f3a2fa3379b91dbe.png",
     "generation_time": 160.90096987504512,
     "size": 50692458
+  },
+  "132355b28e1e7b17e16dd0dfa437353f267ac03ccc9fc78851333b602104d876": {
+    "ply": "https://subnet404.xyz/rounds/0/leader/132355b28e1e7b17e16dd0dfa437353f267ac03ccc9fc78851333b602104d876.ply",
+    "png": "https://subnet404.xyz/rounds/0/leader/132355b28e1e7b17e16dd0dfa437353f267ac03ccc9fc78851333b602104d876.png",
+    "generation_time": 85.64078883314505,
+    "size": 20289386
   }
 }
