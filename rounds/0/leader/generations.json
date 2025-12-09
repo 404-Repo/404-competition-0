@@ -4,5 +4,17 @@
     "png": "https://subnet404.xyz/rounds/0/leader/132355b28e1e7b17e16dd0dfa437353f267ac03ccc9fc78851333b602104d876.png",
     "generation_time": 23.136060750111938,
     "size": 20289386
+  },
+  "8718bf097ac73dc91cb048a8390cfd93231420c16ce1783cc43f37821ed0a380": {
+    "ply": "https://subnet404.xyz/rounds/0/leader/8718bf097ac73dc91cb048a8390cfd93231420c16ce1783cc43f37821ed0a380.ply",
+    "png": null,
+    "generation_time": 10.285099165979773,
+    "size": 46597738
+  },
+  "14b83984bdccb2baeadb4902b362449b0cbde5da828d1286b190dbb0c629fcc0": {
+    "ply": "https://subnet404.xyz/rounds/0/leader/14b83984bdccb2baeadb4902b362449b0cbde5da828d1286b190dbb0c629fcc0.ply",
+    "png": null,
+    "generation_time": 37.63635845808312,
+    "size": 47026026
   }
 }
