@@ -5,7 +5,7 @@
     "revealed_at_block": 7023081,
     "tag": "97f5a7e-test0-1",
     "status": "failure",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e7eserr2a:97f5a7e-test0-1"
+    "docker_image": null
   },
   "5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL": {
     "repo": "404-Repo/404-base-miner",
@@ -13,6 +13,6 @@
     "revealed_at_block": 7023150,
     "tag": "97f5a7e-test0-1",
     "status": "failure",
-    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5EhrAFV5Jv:97f5a7e-test0-1"
+    "docker_image": null
   }
 }
