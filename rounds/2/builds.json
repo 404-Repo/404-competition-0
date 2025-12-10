@@ -1,0 +1,66 @@
+{
+  "5E7eSeRr2aHzCV7SkY4a2Pi5NXHrU4anZz3phEQgn4HCen2B": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "revealed_at_block": 7023081,
+    "tag": "97f5a7e-test1-2",
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e7eserr2a:97f5a7e-test1-2"
+  },
+  "5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "revealed_at_block": 7023150,
+    "tag": "97f5a7e-test1-2",
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ehrafv5jv:97f5a7e-test1-2"
+  },
+  "aaaaaaaaaa": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "revealed_at_block": 7023151,
+    "tag": "97f5a7e-test1-2",
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/aaaaaaaaaa:97f5a7e-test1-2"
+  },
+  "bbbbbbbbbb": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "revealed_at_block": 7023152,
+    "tag": "97f5a7e-test1-2",
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/bbbbbbbbbb:97f5a7e-test1-2"
+  },
+  "cccccccccc": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "revealed_at_block": 7023153,
+    "tag": "97f5a7e-test1-2",
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/cccccccccc:97f5a7e-test1-2"
+  },
+  "ddddddddddd": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "revealed_at_block": 7023154,
+    "tag": "97f5a7e-test1-2",
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/dddddddddd:97f5a7e-test1-2"
+  },
+  "eeeeeeeeeee": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "revealed_at_block": 7023155,
+    "tag": "97f5a7e-test1-2",
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/eeeeeeeeee:97f5a7e-test1-2"
+  },
+  "ffffffffff": {
+    "repo": "404-Repo/404-base-miner",
+    "commit": "97f5a7ec7eba84c0136cdbfdb7a6705bb2189c3a",
+    "revealed_at_block": 7023157,
+    "tag": "97f5a7e-test1-2",
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/ffffffffff:97f5a7e-test1-2"
+  }
+}
