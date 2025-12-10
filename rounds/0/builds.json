@@ -124,8 +124,8 @@
     "commit": "cf9121180976de1d50af56d92d7c8f65ade6d0ab",
     "revealed_at_block": 7067142,
     "tag": "cf91211-contest-0",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hkpvywzcz:cf91211-contest-0"
   },
   "5GbEreVpc4AqUiuHQUTethLyAFdPJJkAcznWLZXafk4rhHdc": {
     "repo": "TuttiGenerator/improved-chainsaw",
