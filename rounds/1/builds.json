@@ -68,7 +68,7 @@
     "commit": "ea8b01b07ffe6eb14b1e2b33d6f6edce87eb421e",
     "revealed_at_block": 7071800,
     "tag": "ea8b01b-contest-1",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DfUyH6SzDp18abrjBhKaQXAYwmXQ1DCj61dSdUQEmSrhpZk": {
@@ -76,7 +76,7 @@
     "commit": "d6e96e3f784a8c4e82e32cb7d6ae1e73aaa1238c",
     "revealed_at_block": 7071822,
     "tag": "d6e96e3-contest-1",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FkGFBhVouVc9QDRChjQnnkvM9AKmq7H1uZeWyFZFuyWWYA1": {
@@ -92,8 +92,8 @@
     "commit": "d6e96e3f784a8c4e82e32cb7d6ae1e73aaa1238c",
     "revealed_at_block": 7072039,
     "tag": "d6e96e3-contest-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ctj9hdemh:d6e96e3-contest-1"
   },
   "5FvKHjNfuQK5Zk5hmpftphN4u4VcKbj5rgcnshgi8QveDMwH": {
     "repo": "jakalbill922-bot/404-jakalbill922-11",
@@ -116,7 +116,7 @@
     "commit": "48e568fd1bd446f14d6eb4b6cc1ab976b78bbfbe",
     "revealed_at_block": 7073743,
     "tag": "48e568f-contest-1",
-    "status": "pending",
+    "status": "failure",
     "docker_image": null
   },
   "5FWHxndcn3t3rPGJqrFSQNjEgbUZy3LoL936qjEHuwce12SZ": {
@@ -140,8 +140,8 @@
     "commit": "ab09e43bcce6632822db2e2db833ca9134b9773d",
     "revealed_at_block": 7073826,
     "tag": "ab09e43-contest-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5chvo8b6xi:ab09e43-contest-1"
   },
   "5EncqGEMWMoEzuc5xuHRVTFJfkgtFrsQpX5J9euAR3e6uBJE": {
     "repo": "jakalbill922-bot/404-jakalbill922-12",
@@ -204,7 +204,7 @@
     "commit": "249c444971c9af089a52762ee2f61161c9d3132d",
     "revealed_at_block": 7074094,
     "tag": "249c444-contest-1",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HgByFpa3L6HL8UUhEWd9uDyNyz2WeWxLjXqaxEVmh1ttgPy": {
@@ -324,7 +324,7 @@
     "commit": "14b01e41d64cdd493d51dce5c56f15496623bf7c",
     "revealed_at_block": 7074713,
     "tag": "14b01e4-contest-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5d29uzhgrp:14b01e4-contest-1"
   }
 }
