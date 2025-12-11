@@ -1,0 +1,32 @@
+{
+  "fc9cb01579abf3e5051a7f178919b0819c963abe33bf009ec9fa28ebcbe6abf7": {
+    "ply": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/fc9cb01579abf3e5051a7f178919b0819c963abe33bf009ec9fa28ebcbe6abf7.ply",
+    "png": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/fc9cb01579abf3e5051a7f178919b0819c963abe33bf009ec9fa28ebcbe6abf7.png",
+    "generation_time": 15.576850263983943,
+    "size": 33102186
+  },
+  "2109bad54dcc52a6ee8126b33cbb1b5ebd063daaa54d0d133bb4fbfeccfc5773": {
+    "ply": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/2109bad54dcc52a6ee8126b33cbb1b5ebd063daaa54d0d133bb4fbfeccfc5773.ply",
+    "png": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/2109bad54dcc52a6ee8126b33cbb1b5ebd063daaa54d0d133bb4fbfeccfc5773.png",
+    "generation_time": 45.22253470000578,
+    "size": 10288234
+  },
+  "165dc932a77801cab031d7c6bd449c184ad8a1ac29ecd4b786cb7cc119438f54": {
+    "ply": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/165dc932a77801cab031d7c6bd449c184ad8a1ac29ecd4b786cb7cc119438f54.ply",
+    "png": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/165dc932a77801cab031d7c6bd449c184ad8a1ac29ecd4b786cb7cc119438f54.png",
+    "generation_time": 86.35014297900489,
+    "size": 31073642
+  },
+  "37fbcffe37c019f685d36925a7200848f643217b012c4538b21c48617ecb2b6c": {
+    "ply": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/37fbcffe37c019f685d36925a7200848f643217b012c4538b21c48617ecb2b6c.ply",
+    "png": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/37fbcffe37c019f685d36925a7200848f643217b012c4538b21c48617ecb2b6c.png",
+    "generation_time": 16.505490331008332,
+    "size": 53446762
+  },
+  "bde1d1f173ac0a33553ac7a7f39d25de972beca6c924d6223c6c106ee879e99a": {
+    "ply": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/bde1d1f173ac0a33553ac7a7f39d25de972beca6c924d6223c6c106ee879e99a.ply",
+    "png": "https://subnet404.xyz/rounds/1/5E4pFf6kdtAVgKFAeXadzeMUfdTMEp4ZS8EZcVPSCx4KD25g/bde1d1f173ac0a33553ac7a7f39d25de972beca6c924d6223c6c106ee879e99a.png",
+    "generation_time": 40.73546065101982,
+    "size": 35137898
+  }
+}
