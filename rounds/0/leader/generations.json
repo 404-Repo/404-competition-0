@@ -280,5 +280,11 @@
     "png": "https://subnet404.xyz/tests/0/leader/68f48d1f2155e81b9c80ae2c8638f45c45ab7be60f10abbbc8b98787324da308.png",
     "generation_time": 12.699628034999478,
     "size": 45291680
+  },
+  "857f450650b893bd7587a6b166eb8a2f73150acfe85c7d414d3754da96cecb89": {
+    "ply": "https://subnet404.xyz/tests/0/leader/857f450650b893bd7587a6b166eb8a2f73150acfe85c7d414d3754da96cecb89.ply",
+    "png": "https://subnet404.xyz/tests/0/leader/857f450650b893bd7587a6b166eb8a2f73150acfe85c7d414d3754da96cecb89.png",
+    "generation_time": 15.156278151000151,
+    "size": 31950624
   }
 }
