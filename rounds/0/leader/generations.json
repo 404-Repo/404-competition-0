@@ -220,5 +220,17 @@
     "png": "https://subnet404.xyz/tests/0/leader/61b44f93fc42bfec73c087ca3f3346e979d1c4d9a2d2182c9fc21de60665b191.png",
     "generation_time": 14.93527045600058,
     "size": 10010016
+  },
+  "6efff1ca30ca019530448716d9415dcaab71b792eb0dd3c6149143e61ecf2584": {
+    "ply": "https://subnet404.xyz/tests/0/leader/6efff1ca30ca019530448716d9415dcaab71b792eb0dd3c6149143e61ecf2584.ply",
+    "png": null,
+    "generation_time": 19.77491746400483,
+    "size": 11805278
+  },
+  "6dfc8b2acf4c1d52a460afab0a160f3913208c96bbe487d6288adc6d662f33f1": {
+    "ply": "https://subnet404.xyz/tests/0/leader/6dfc8b2acf4c1d52a460afab0a160f3913208c96bbe487d6288adc6d662f33f1.ply",
+    "png": null,
+    "generation_time": 18.34791363500699,
+    "size": 12644527
   }
 }
