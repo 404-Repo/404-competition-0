@@ -100,8 +100,8 @@
     "commit": "711e0a4dee9d1824ebf3dfda2d030a174deba0d8",
     "revealed_at_block": 7073698,
     "tag": "711e0a4-contest-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fvkhjnfuq:711e0a4-contest-1"
   },
   "5FA5AaqXhBZrzwWHCL9r74MG42Q8uhXXyE7bqSTTVPdu1awR": {
     "repo": "jakalbill922-bot/404-jakalbill922-07",
