@@ -228,8 +228,8 @@
     "commit": "82ce734122734a5ada881ee9c268189582dfc9c7",
     "revealed_at_block": 7074217,
     "tag": "82ce734-contest-1",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpoxqamjx:82ce734-contest-1"
   },
   "5EqpAJyenhncmU1fv3U6brTmVVnRjBdRG9e2pnvQgNFBdPXN": {
     "repo": "mina0501/tokyo_04",
