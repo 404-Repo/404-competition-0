@@ -676,5 +676,35 @@
     "png": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/a826bf8eb1c6abdf76a7f73026786c94fd35a81993dc11ee1451eb42aa8eced6.png",
     "generation_time": 10.701789214988821,
     "size": 48549152
+  },
+  "d3d627fbee0c1cb9a70f28ca87639fa5222fc879bc97bdcde035643e07ff7905": {
+    "ply": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/d3d627fbee0c1cb9a70f28ca87639fa5222fc879bc97bdcde035643e07ff7905.ply",
+    "png": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/d3d627fbee0c1cb9a70f28ca87639fa5222fc879bc97bdcde035643e07ff7905.png",
+    "generation_time": 40.430012759010424,
+    "size": 4717983
+  },
+  "1d1780ef95861b40e023ebbc9353e50f010e8a290e8fd3e5641a56735d38a5f3": {
+    "ply": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/1d1780ef95861b40e023ebbc9353e50f010e8a290e8fd3e5641a56735d38a5f3.ply",
+    "png": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/1d1780ef95861b40e023ebbc9353e50f010e8a290e8fd3e5641a56735d38a5f3.png",
+    "generation_time": 10.559925987996394,
+    "size": 46579872
+  },
+  "b335337ffd5f16a2500fb3cce4512a53cc5e8694a6939d274be74d8abc27afe8": {
+    "ply": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/b335337ffd5f16a2500fb3cce4512a53cc5e8694a6939d274be74d8abc27afe8.ply",
+    "png": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/b335337ffd5f16a2500fb3cce4512a53cc5e8694a6939d274be74d8abc27afe8.png",
+    "generation_time": 37.58875143900514,
+    "size": 16004896
+  },
+  "4d2aae4d-c7b9-4395-bb50-39fd2fa6cb41": {
+    "ply": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/4d2aae4d-c7b9-4395-bb50-39fd2fa6cb41.ply",
+    "png": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/4d2aae4d-c7b9-4395-bb50-39fd2fa6cb41.png",
+    "generation_time": 12.58544679399347,
+    "size": 31387040
+  },
+  "b9307a99c324577999f7622c54dfb2f5ca724054badd03acc77f6c6d71d1bcac": {
+    "ply": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/b9307a99c324577999f7622c54dfb2f5ca724054badd03acc77f6c6d71d1bcac.ply",
+    "png": "https://subnet404.xyz/rounds/1/5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7/b9307a99c324577999f7622c54dfb2f5ca724054badd03acc77f6c6d71d1bcac.png",
+    "generation_time": 11.843816622000304,
+    "size": 52572576
   }
 }
