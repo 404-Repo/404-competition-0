@@ -388,5 +388,23 @@
     "png": "https://subnet404.xyz/tests/2/leader/d65caa9a4d1d947d28cd62ae5638b917375f670eae841ab385307d752ed26156.png",
     "generation_time": 11.242981223011157,
     "size": 21662058
+  },
+  "c3720c41dee400f5ea11c74caeccc312f25b10621a7be2b9afdf19bcf716c376": {
+    "ply": "https://subnet404.xyz/tests/2/leader/c3720c41dee400f5ea11c74caeccc312f25b10621a7be2b9afdf19bcf716c376.ply",
+    "png": "https://subnet404.xyz/tests/2/leader/c3720c41dee400f5ea11c74caeccc312f25b10621a7be2b9afdf19bcf716c376.png",
+    "generation_time": 18.908840126008727,
+    "size": 31043178
+  },
+  "62ffe4e1ac40ddf724f06c84c50a9b19eb1193f7ed1b57691283223d664b4892": {
+    "ply": "https://subnet404.xyz/tests/2/leader/62ffe4e1ac40ddf724f06c84c50a9b19eb1193f7ed1b57691283223d664b4892.ply",
+    "png": "https://subnet404.xyz/tests/2/leader/62ffe4e1ac40ddf724f06c84c50a9b19eb1193f7ed1b57691283223d664b4892.png",
+    "generation_time": 21.675767259002896,
+    "size": 13207402
+  },
+  "9c9443ae-7930-467f-96b5-c146d057f298": {
+    "ply": "https://subnet404.xyz/tests/2/leader/9c9443ae-7930-467f-96b5-c146d057f298.ply",
+    "png": "https://subnet404.xyz/tests/2/leader/9c9443ae-7930-467f-96b5-c146d057f298.png",
+    "generation_time": 12.869003730011173,
+    "size": 7342186
   }
 }
