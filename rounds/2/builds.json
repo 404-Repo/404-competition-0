@@ -20,8 +20,8 @@
     "commit": "6d9312489cab45b5299bed4fa442efde11d49565",
     "revealed_at_block": 7074770,
     "tag": "6d93124-contest-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dptlx6rqv:6d93124-contest-2"
   },
   "5FR76YahtanpuHjjMzCiStz58KCNHdz5XbBdRfxrNPErv8Ho": {
     "repo": "hiep-nd11/sn17_multi",
@@ -76,16 +76,16 @@
     "commit": "7b59eda9667b5ebadfd3ddb637098507df9b7451",
     "revealed_at_block": 7080563,
     "tag": "7b59eda-contest-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fki9ut2wu:7b59eda-contest-2"
   },
   "5Gq8zvd7mP49yHsHWCNobWuR4KZYjstC3vGo4S6fBmPLZaKx": {
     "repo": "Uglejo/literate-octo-carnival",
     "commit": "1f029d010a346fabb1f92160cf966fdcd823ce5f",
     "revealed_at_block": 7080843,
     "tag": "1f029d0-contest-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gq8zvd7mp:1f029d0-contest-2"
   },
   "5Dhie1cz1a987kPFkvsVwxjKEg2uUMbSgm5N5vq6Drr8mDFH": {
     "repo": "kostik46/3d-gen-miner-v2",
@@ -116,16 +116,16 @@
     "commit": "73558c312bf9451690e2ef8c6bbbce4893124b9a",
     "revealed_at_block": 7081348,
     "tag": "73558c3-contest-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h99nmxnkw:73558c3-contest-2"
   },
   "5HU3ytPKU6kUwH8Fk7BwrKhk4k41NqJ7zT7updCWyoxf8oht": {
     "repo": "TuttiGenerator/bug-free",
     "commit": "13fd3770095d81c07dc8b197dcf3fa595e01530d",
     "revealed_at_block": 7081360,
     "tag": "13fd377-contest-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hu3ytpku6:13fd377-contest-2"
   },
   "5CAgtbj1SV88PRrP3toyWFKTtuTDk1sfs9JPbTi5kM1fbHjN": {
     "repo": "hiep-nd11/sn17_edit",
@@ -140,8 +140,8 @@
     "commit": "6a3e89a2d41fe98fd38a9b9d16ecf1ee373b2e90",
     "revealed_at_block": 7081873,
     "tag": "6a3e89a-contest-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h3pdhjjmf:6a3e89a-contest-2"
   },
   "5DJ9fck3sYepKTe3eu5fKmVBoCZmo3gTKtMLKGFzWsihMus7": {
     "repo": "mokabetrade/psychic-carnival",
@@ -156,7 +156,7 @@
     "commit": "954042c51a96bd77ba09074188bcdc875b411a75",
     "revealed_at_block": 7081902,
     "tag": "954042c-contest-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dwqurhcwu:954042c-contest-2"
   }
 }
