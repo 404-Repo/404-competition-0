@@ -20,15 +20,15 @@
     "commit": "37192e1f2343de2ae09e8baddf27c250d148a110",
     "revealed_at_block": 7023151,
     "tag": "37192e1-test2-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/aaaaaaaaaa:37192e1-test2-2"
   },
   "bbbbbbbbbb": {
     "repo": "404-Repo/404-base-miner",
     "commit": "37192e1f2343de2ae09e8baddf27c250d148a110",
     "revealed_at_block": 7023152,
     "tag": "37192e1-test2-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/bbbbbbbbbb:37192e1-test2-2"
   }
 }
