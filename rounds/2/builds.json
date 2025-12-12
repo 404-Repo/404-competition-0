@@ -4,16 +4,16 @@
     "commit": "37192e1f2343de2ae09e8baddf27c250d148a110",
     "revealed_at_block": 7023081,
     "tag": "37192e1-test2-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e7eserr2a:37192e1-test2-2"
   },
   "5EhrAFV5Jv5BBNX8fuybxeUiUu9NaRN2U84xb88yZxhGgsWL": {
     "repo": "404-Repo/404-base-miner",
     "commit": "37192e1f2343de2ae09e8baddf27c250d148a110",
     "revealed_at_block": 7023150,
     "tag": "37192e1-test2-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ehrafv5jv:37192e1-test2-2"
   },
   "aaaaaaaaaa": {
     "repo": "404-Repo/404-base-miner",
