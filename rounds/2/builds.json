@@ -28,8 +28,8 @@
     "commit": "c78ae4a2c4037173222b8c4b49f32796c8bdaddc",
     "revealed_at_block": 7075486,
     "tag": "c78ae4a-contest-2",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fr76yahta:c78ae4a-contest-2"
   },
   "5DM7qmzgcpyYUWjjnYePzs2bXA2PzY2xqdgrta6ftaUmYGUs": {
     "repo": "404-Repo/404-gen-miner",
