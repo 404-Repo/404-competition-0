@@ -22,5 +22,13 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5eqnlqbyyw:231ba60-contest-0",
     "weight": 0.9,
     "effective_block": 7081918
+  },
+  {
+    "hotkey": "5F4HaNQJAXDhirU51GTz4vBvcEuUo3YSfhKuBT7qix35DkHP",
+    "repo": "kostik46/3d-gen-miner",
+    "commit": "051767958d31ad95634897f8e7c4cef3731bbe0a",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5f4hanqjax:0517679-contest-2",
+    "weight": 1.0,
+    "effective_block": 7089118
   }
 ]
