@@ -284,7 +284,7 @@
     "commit": "f5d31d520bbfaa6b12f1dc6a0c5b9d6da9f14833",
     "revealed_at_block": 7089104,
     "tag": "f5d31d5-contest-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5elfxlfzze:f5d31d5-contest-3"
   }
 }
