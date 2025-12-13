@@ -622,5 +622,35 @@
     "png": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/41c6bfeebb5eaccc1611663137f9df83b32f0953573eda3055256d35e78e84d4.png",
     "generation_time": 10.676704485027585,
     "size": 32370592
+  },
+  "563040d63f2cb99c888f9a3468b52e4a315f9ddbaabffa91f7c7e984dde8a2b0": {
+    "ply": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/563040d63f2cb99c888f9a3468b52e4a315f9ddbaabffa91f7c7e984dde8a2b0.ply",
+    "png": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/563040d63f2cb99c888f9a3468b52e4a315f9ddbaabffa91f7c7e984dde8a2b0.png",
+    "generation_time": 11.189588573004585,
+    "size": 33454240
+  },
+  "394016d1580b17317772aa10af2706b7b0f41b975d3178dccb74995b8a1db032": {
+    "ply": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/394016d1580b17317772aa10af2706b7b0f41b975d3178dccb74995b8a1db032.ply",
+    "png": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/394016d1580b17317772aa10af2706b7b0f41b975d3178dccb74995b8a1db032.png",
+    "generation_time": 10.068478185043205,
+    "size": 19997856
+  },
+  "51fb75cf-aed2-4f0c-8687-52d8a8f04d95": {
+    "ply": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/51fb75cf-aed2-4f0c-8687-52d8a8f04d95.ply",
+    "png": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/51fb75cf-aed2-4f0c-8687-52d8a8f04d95.png",
+    "generation_time": 10.840383096016012,
+    "size": 21105440
+  },
+  "ec9b224ee3dc5fa12e73e94c5693c63fbba67f11e191402412ad13312b093cf3": {
+    "ply": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/ec9b224ee3dc5fa12e73e94c5693c63fbba67f11e191402412ad13312b093cf3.ply",
+    "png": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/ec9b224ee3dc5fa12e73e94c5693c63fbba67f11e191402412ad13312b093cf3.png",
+    "generation_time": 13.113846572989132,
+    "size": 86172193
+  },
+  "591f013f-c6c1-40bd-be71-11fb809e9d24": {
+    "ply": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/591f013f-c6c1-40bd-be71-11fb809e9d24.ply",
+    "png": "https://subnet404.xyz/rounds/3/5E6pwdSjHUo9y2BTtMnq6xLDJYfyE1EhdpFuBphGwVhevJcc/591f013f-c6c1-40bd-be71-11fb809e9d24.png",
+    "generation_time": 11.664370454964228,
+    "size": 37146912
   }
 }
