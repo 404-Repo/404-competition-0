@@ -292,5 +292,29 @@
     "png": "https://subnet404.xyz/rounds/3/5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM/cb2359bc40dbcae400d4bd64bf445892a58dc1ad7df1f3027624a0b09f08a157.png",
     "generation_time": 13.903201583016198,
     "size": 21024928
+  },
+  "7c28414fca825f35f6a3075e899a29dcf66f98e9e5b77379edecf12b72edeacb": {
+    "ply": "https://subnet404.xyz/rounds/3/5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM/7c28414fca825f35f6a3075e899a29dcf66f98e9e5b77379edecf12b72edeacb.ply",
+    "png": "https://subnet404.xyz/rounds/3/5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM/7c28414fca825f35f6a3075e899a29dcf66f98e9e5b77379edecf12b72edeacb.png",
+    "generation_time": 14.601686082023662,
+    "size": 42845856
+  },
+  "4d2aae4d-c7b9-4395-bb50-39fd2fa6cb41": {
+    "ply": "https://subnet404.xyz/rounds/3/5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM/4d2aae4d-c7b9-4395-bb50-39fd2fa6cb41.ply",
+    "png": "https://subnet404.xyz/rounds/3/5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM/4d2aae4d-c7b9-4395-bb50-39fd2fa6cb41.png",
+    "generation_time": 15.264295401982963,
+    "size": 39544864
+  },
+  "318008a5d383963778a611c5931d73c7eb91177ba2574420be058fff573a92b8": {
+    "ply": "https://subnet404.xyz/rounds/3/5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM/318008a5d383963778a611c5931d73c7eb91177ba2574420be058fff573a92b8.ply",
+    "png": "https://subnet404.xyz/rounds/3/5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM/318008a5d383963778a611c5931d73c7eb91177ba2574420be058fff573a92b8.png",
+    "generation_time": 17.196683312009554,
+    "size": 44012192
+  },
+  "5e104b3d5dccb55ec38bf169b4d0dc0a8443e1cece03727e800277f0b5f50c2b": {
+    "ply": "https://subnet404.xyz/rounds/3/5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM/5e104b3d5dccb55ec38bf169b4d0dc0a8443e1cece03727e800277f0b5f50c2b.ply",
+    "png": "https://subnet404.xyz/rounds/3/5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM/5e104b3d5dccb55ec38bf169b4d0dc0a8443e1cece03727e800277f0b5f50c2b.png",
+    "generation_time": 16.626656659005675,
+    "size": 71186081
   }
 }
