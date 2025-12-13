@@ -28,8 +28,8 @@
     "commit": "6a3e89a2d41fe98fd38a9b9d16ecf1ee373b2e90",
     "revealed_at_block": 7084917,
     "tag": "6a3e89a-contest-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h3pdhjjmf:6a3e89a-contest-3"
   },
   "5Dxw1CC8KpLjD2xGF4kTyfNQK8P6e7v54LzccUdMLMJ9Vqps": {
     "repo": "mokabetrade/silver-funicular",
@@ -44,8 +44,8 @@
     "commit": "da209c8a33cfedcec8e55f8435e5e4b3d5abf665",
     "revealed_at_block": 7085075,
     "tag": "da209c8-contest-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h99nmxnkw:da209c8-contest-3"
   },
   "5FqZqKgJKbXQ1D73WbMBhiicwoEYUZaWSFX9TZo9C8vgeUnx": {
     "repo": "Uglejo/crispy-umbrella",
@@ -84,8 +84,8 @@
     "commit": "ebdf8d835b510f748934e3347fce13bd9d090af1",
     "revealed_at_block": 7085169,
     "tag": "ebdf8d8-contest-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hkpvywzcz:ebdf8d8-contest-3"
   },
   "5GWBnZfSewUhNizUKpLUhG48wRbMjTr9kDn4dMBdeSz639N6": {
     "repo": "TuttiGenerator/animated-copper",
@@ -100,8 +100,8 @@
     "commit": "b4c8f83b4b2d394388413bc3eb103b07fab3738d",
     "revealed_at_block": 7085220,
     "tag": "b4c8f83-contest-3",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hu3ytpku6:b4c8f83-contest-3"
   },
   "5GbEreVpc4AqUiuHQUTethLyAFdPJJkAcznWLZXafk4rhHdc": {
     "repo": "TuttiGenerator/improved-chainsaw",
@@ -116,8 +116,8 @@
     "commit": "e9626a16f198c1aeaad76bcbc6db64be60b3497f",
     "revealed_at_block": 7086413,
     "tag": "e9626a1-contest-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fbs9v7nrj:e9626a1-contest-3"
   },
   "5E7e6UUexjb19Jm7zQEbiQ5YZQXenujsE1eQautQe4iFCKwA": {
     "repo": "hiep-nd11/sn17_single_vggt_norot",
@@ -196,8 +196,8 @@
     "commit": "c2df5a8c151072fc1fdb5e99b9f808b37703a957",
     "revealed_at_block": 7088429,
     "tag": "c2df5a8-contest-3",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgxgfidhv:c2df5a8-contest-3"
   },
   "5G22zS7xXNPyazGAawfH8zrGw2cwR1fDDtUi9tMAKWsUcvdN": {
     "repo": "TuttiGenerator/nexori",
@@ -212,8 +212,8 @@
     "commit": "1e977a1ccdd07104a4278103726ec20e9d179372",
     "revealed_at_block": 7088478,
     "tag": "1e977a1-contest-3",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hjcsufkfu:1e977a1-contest-3"
   },
   "5GCP74eiqJMr3aV4M1hnkwgKm4dW1sXuTwawVdJRBV9ueEy8": {
     "repo": "Uglejo/orbexia",
@@ -252,8 +252,8 @@
     "commit": "b51a001ffefc8ce718b07ef327c8ee07d101a60f",
     "revealed_at_block": 7088713,
     "tag": "b51a001-contest-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hgruq9nck:b51a001-contest-3"
   },
   "5DjrgJsBrzy94umpnL9EuYAaiCBYfkhr7oVdoirHx1dDT8jF": {
     "repo": "minor-miner/404-miner",
@@ -268,8 +268,8 @@
     "commit": "9fcf1ceea7bf986f54c1438d543c9efbde500752",
     "revealed_at_block": 7088955,
     "tag": "9fcf1ce-contest-3",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h8ophugfm:9fcf1ce-contest-3"
   },
   "5G6mp6MH4xjk9w72amLcCWYJY6NqzQtAexC9wDzLqMiTQZiM": {
     "repo": "tuandao-zenai/cr7-win-worldcup-2026",
