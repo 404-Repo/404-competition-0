@@ -8,5 +8,10 @@
     "hotkey": "5HbT83FZbKqvDHZpQ23BeMByv18om3XRMj1bLztq1wWjXbj4",
     "verdict": "failed",
     "reason": "test"
+  },
+  {
+    "hotkey": "5DvfxsGDDAMZgFCeBFhmBFB7QJgT9Por4YPbR8ddPeGSQnEC",
+    "verdict": "passed",
+    "reason": "test"
   }
 ]
