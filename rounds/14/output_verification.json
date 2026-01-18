@@ -3,5 +3,10 @@
     "hotkey": "5GnESLTv7mVY1hb6uNg1jrXZEFixXxHudNuoE3DrFbhRx8qo",
     "verdict": "failed",
     "reason": "test"
+  },
+  {
+    "hotkey": "5HbT83FZbKqvDHZpQ23BeMByv18om3XRMj1bLztq1wWjXbj4",
+    "verdict": "failed",
+    "reason": "test"
   }
 ]
