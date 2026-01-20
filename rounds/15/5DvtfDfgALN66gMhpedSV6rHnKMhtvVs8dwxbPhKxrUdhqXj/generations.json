@@ -54,10 +54,10 @@
     "size": 20818026
   },
   "5a5fbe25dd2291f41fcd4a1e2a2f066cf7d7475edcc602650ecff4bfadbc8028": {
-    "ply": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0
+    "ply": "https://subnet404.xyz/rounds/15/5DvtfDfgALN66gMhpedSV6rHnKMhtvVs8dwxbPhKxrUdhqXj/5a5fbe25dd2291f41fcd4a1e2a2f066cf7d7475edcc602650ecff4bfadbc8028.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvtfDfgALN66gMhpedSV6rHnKMhtvVs8dwxbPhKxrUdhqXj/5a5fbe25dd2291f41fcd4a1e2a2f066cf7d7475edcc602650ecff4bfadbc8028.png",
+    "generation_time": 29.945423561846837,
+    "size": 27141994
   },
   "1b000364de44fc77208d95f6d155799f86a0def3cf6fee08a5fd4d985971c07d": {
     "ply": "https://subnet404.xyz/rounds/15/5DvtfDfgALN66gMhpedSV6rHnKMhtvVs8dwxbPhKxrUdhqXj/1b000364de44fc77208d95f6d155799f86a0def3cf6fee08a5fd4d985971c07d.ply",
@@ -78,16 +78,16 @@
     "size": 24760426
   },
   "69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad": {
-    "ply": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0
+    "ply": "https://subnet404.xyz/rounds/15/5DvtfDfgALN66gMhpedSV6rHnKMhtvVs8dwxbPhKxrUdhqXj/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvtfDfgALN66gMhpedSV6rHnKMhtvVs8dwxbPhKxrUdhqXj/69847a5d5949d8ce2877b864e7b9ad32ffc7e90b546414d5b79572f0a6669cad.png",
+    "generation_time": 27.06949982000515,
+    "size": 45438314
   },
   "5aa3a22ae7830606ad5038ea1c7273995d7cd534f883b98fd3402e526ab79391": {
-    "ply": null,
-    "png": null,
-    "generation_time": 0.0,
-    "size": 0
+    "ply": "https://subnet404.xyz/rounds/15/5DvtfDfgALN66gMhpedSV6rHnKMhtvVs8dwxbPhKxrUdhqXj/5aa3a22ae7830606ad5038ea1c7273995d7cd534f883b98fd3402e526ab79391.ply",
+    "png": "https://subnet404.xyz/rounds/15/5DvtfDfgALN66gMhpedSV6rHnKMhtvVs8dwxbPhKxrUdhqXj/5aa3a22ae7830606ad5038ea1c7273995d7cd534f883b98fd3402e526ab79391.png",
+    "generation_time": 32.14327017497271,
+    "size": 32604010
   },
   "7c7df949fd112c9a3b33311bcfa387160927231a5aa41cb3a0064618d1abe87e": {
     "ply": null,
