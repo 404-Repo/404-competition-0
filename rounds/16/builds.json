@@ -44,8 +44,8 @@
     "commit": "6e502238bf0caad268722a33015e7127b5d84041",
     "revealed_at_block": 7312240,
     "tag": "6e50223-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hp2qfzczu:6e50223-contest-16"
   },
   "5ExhiJkJubyzciUVj6j4CdLGCTqbbmGteCjJszhS14j1JbSa": {
     "repo": "TuttiGenerator/flarnix",
@@ -620,8 +620,8 @@
     "commit": "b205a04c169dca3305855d27f54b5e6ef2797f26",
     "revealed_at_block": 7336189,
     "tag": "b205a04-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hghp1edzf:b205a04-contest-16"
   },
   "5EhyeX1feuT5Ak9cwTqnuDvUBcGLTPvD4o75ciqABjo5veyR": {
     "repo": "manbeast3b/i23d-zi",
