@@ -196,8 +196,8 @@
     "commit": "4813d7e2e5632b500f71a08e3c1e6e001df7d7f9",
     "revealed_at_block": 7312999,
     "tag": "4813d7e-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hygts6sz2:4813d7e-contest-16"
   },
   "5FUSqk8GPvWrpi1bm44X5mQ8G9YEYd7cgn6dDGK2gkGbVqa2": {
     "repo": "manbeast3b/light-both",
@@ -276,8 +276,8 @@
     "commit": "dd21b3ba92ec2b7f4f8da8458d023baf64e3fc02",
     "revealed_at_block": 7318905,
     "tag": "dd21b3b-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hjdxk6yrj:dd21b3b-contest-16"
   },
   "5Gq8zvd7mP49yHsHWCNobWuR4KZYjstC3vGo4S6fBmPLZaKx": {
     "repo": "mokabetrade/kube-lantern",
