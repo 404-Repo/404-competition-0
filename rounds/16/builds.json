@@ -132,8 +132,8 @@
     "commit": "58134acb8647997c3e4ec240e91faa5c6661f672",
     "revealed_at_block": 7312289,
     "tag": "58134ac-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gwbnzfsew:58134ac-contest-16"
   },
   "5FZ6C9vbHX7AMks8gFLmCXytyFAZ8Uwm2kbvRPf8VjnMJ8cg": {
     "repo": "mokabetrade/neighbour-hip",
@@ -324,7 +324,7 @@
     "commit": "c8782b51145c16f73776423e357fcb5b6ec5bb60",
     "revealed_at_block": 7318923,
     "tag": "c8782b5-contest-16",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DhrMRiaV6adXWxcpwpVLAac5kLXbBgq2DzPVhTw74xFv3CJ": {
@@ -556,8 +556,8 @@
     "commit": "a698a37ff96683666f103ee4c1cd22d5b8b170e9",
     "revealed_at_block": 7332797,
     "tag": "a698a37-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gw62qcx2j:a698a37-contest-16"
   },
   "5D5eNnUY1Y4rc5xqU8n5zZEJcrfDAYfcccxhR86XzeXhow6r": {
     "repo": "jyotinayarman/goat-ten-scene-m-tq_4s_2",
@@ -884,7 +884,7 @@
     "commit": "1f964e9e9fc782f1b7fa5d9f2abf5818af86af2d",
     "revealed_at_block": 7369536,
     "tag": "1f964e9-contest-16",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CY721q4tEGRXPHA4yFwYgBu6fTpYDyiZ99f5pVEtHH517vN": {
