@@ -284,7 +284,7 @@
     "commit": "4fb48f1393978fd664da4edd334a993374e40aaf",
     "revealed_at_block": 7318906,
     "tag": "4fb48f1-contest-16",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GgNFTyDKaufv1wLKQCjrcGUxujt1jg4jbFZYJnhv245cTsM": {
@@ -308,8 +308,8 @@
     "commit": "8d2194365ba970686245dc1e39aaab44af41a9b5",
     "revealed_at_block": 7318906,
     "tag": "8d21943-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gqwvnuzkb:8d21943-contest-16"
   },
   "5GCWvd2Je6hB3wsgHzKqBsLKf7PAY982wRWZNar7DUFgPHFy": {
     "repo": "mokabetrade/experiment_8",
@@ -468,8 +468,8 @@
     "commit": "a8c80c365425a64e8aaed5927bdbfc3bb2ff48f6",
     "revealed_at_block": 7326659,
     "tag": "a8c80c3-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gdilmjknj:a8c80c3-contest-16"
   },
   "5FW8yj6HLbrn3p1ky1iSJC2Lo33y3L2uteUVPQviFFYRzXPr": {
     "repo": "jakalbill922-bot/404-jakalbill922-13",
@@ -980,7 +980,7 @@
     "commit": "6b67168def51346a3f9d5a9fb3ab000c6550ae77",
     "revealed_at_block": 7369682,
     "tag": "6b67168-contest-16",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CMSq2dnymZQxnGdQmcT6zwJ4cAHxqayJwfc2TNS7c5Qiqej": {
