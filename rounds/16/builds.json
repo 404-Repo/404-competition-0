@@ -52,8 +52,8 @@
     "commit": "2707b860b6337093b8123fd9ecd8ce9114873f9c",
     "revealed_at_block": 7312241,
     "tag": "2707b86-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5exhijkjub:2707b86-contest-16"
   },
   "5D2u5G8J6s22H2WZ4WZKTLAFWy1W4h6bUd1R4GCwqUk9X8mA": {
     "repo": "TuttiGenerator/oliks",
@@ -188,7 +188,7 @@
     "commit": "06377abdc8849e81e77bda75014558989078cf8a",
     "revealed_at_block": 7312935,
     "tag": "06377ab-contest-16",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HYgts6sZ2gBCV5So1X8Mg2MZrEd29bWzKxX3CbLqQsbFri5": {
@@ -236,8 +236,8 @@
     "commit": "ba4bc19535340e34d7b84504c741a15e99d04f78",
     "revealed_at_block": 7318905,
     "tag": "ba4bc19-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5evdks8moh:ba4bc19-contest-16"
   },
   "5Dd9e6S6FtjXobZpDnmD1WsthaCj22P5pzhHsxgncGWLKuEj": {
     "repo": "TuttiGenerator/hexforge",
@@ -516,7 +516,7 @@
     "commit": "0e0881dd7cbc260b0d9b7a1ec492938b2d5a861f",
     "revealed_at_block": 7326765,
     "tag": "0e0881d-contest-16",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HmGvbApWhmsXKTTi4AS8XsSrvhnPAk96bEX8yAaha89qhyU": {
@@ -740,8 +740,8 @@
     "commit": "2439fec77afc2e651e544d0be77c83a1729aef78",
     "revealed_at_block": 7367653,
     "tag": "2439fec-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eyaaw3ts8:2439fec-contest-16"
   },
   "5HRMuS5hdr4fRg6ZMSfc8AgTvkwhA6XWte7bkVSW9jR9ZP17": {
     "repo": "doubtsjohn-del/3d-gen-miner-v20",
