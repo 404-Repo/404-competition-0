@@ -36,8 +36,8 @@
     "commit": "861adb86cf1f6177e47bf599f0b1f59a7bf03dda",
     "revealed_at_block": 7312239,
     "tag": "861adb8-contest-16",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f7mfsxsr4:861adb8-contest-16"
   },
   "5Hp2QFzczuFSVey56cwrgs2AFPbHRLpnqNG7apF5pJRJCy8b": {
     "repo": "TuttiGenerator/qumbyte",
@@ -780,7 +780,7 @@
     "commit": "f1d4b458268e61e1c446d2ca6268595222f17037",
     "revealed_at_block": 7368858,
     "tag": "f1d4b45-contest-16",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DCzQsj5fY7sPCyqk7BaG8NxctEu52iWxTRy488XAMYVfnPK": {
