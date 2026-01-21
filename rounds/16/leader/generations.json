@@ -682,5 +682,35 @@
     "png": "https://subnet404.xyz/rounds/16/leader/6c7b7bad-5607-4b7f-b336-c00bea5cae96.png",
     "generation_time": 30.569017407950014,
     "size": 26792554
+  },
+  "82cf91cd-0b38-46c7-905c-45d1986851a2": {
+    "ply": "https://subnet404.xyz/rounds/16/leader/82cf91cd-0b38-46c7-905c-45d1986851a2.ply",
+    "png": "https://subnet404.xyz/rounds/16/leader/82cf91cd-0b38-46c7-905c-45d1986851a2.png",
+    "generation_time": 31.410669347969815,
+    "size": 31923050
+  },
+  "facd014f0de2ee5089a4252889b2a38bd77e5ec970498104ca4ec70e1f751139": {
+    "ply": "https://subnet404.xyz/rounds/16/leader/facd014f0de2ee5089a4252889b2a38bd77e5ec970498104ca4ec70e1f751139.ply",
+    "png": "https://subnet404.xyz/rounds/16/leader/facd014f0de2ee5089a4252889b2a38bd77e5ec970498104ca4ec70e1f751139.png",
+    "generation_time": 32.301023280015215,
+    "size": 33345898
+  },
+  "30eced3624743e3eaf876975706e3d5a849884493926e8d5e14c421979a4f16e": {
+    "ply": "https://subnet404.xyz/rounds/16/leader/30eced3624743e3eaf876975706e3d5a849884493926e8d5e14c421979a4f16e.ply",
+    "png": "https://subnet404.xyz/rounds/16/leader/30eced3624743e3eaf876975706e3d5a849884493926e8d5e14c421979a4f16e.png",
+    "generation_time": 31.500811574980617,
+    "size": 29765482
+  },
+  "40c82fb75f7ce23ca4d51bf07790c6fbcc6e7af67984b8e9342a38e27a21ea6a": {
+    "ply": "https://subnet404.xyz/rounds/16/leader/40c82fb75f7ce23ca4d51bf07790c6fbcc6e7af67984b8e9342a38e27a21ea6a.ply",
+    "png": "https://subnet404.xyz/rounds/16/leader/40c82fb75f7ce23ca4d51bf07790c6fbcc6e7af67984b8e9342a38e27a21ea6a.png",
+    "generation_time": 26.65488842315972,
+    "size": 14171498
+  },
+  "4ba1620c8cc1a35b6dde7382cd19e9610f8361758a50c693e3f20ed163183990": {
+    "ply": "https://subnet404.xyz/rounds/16/leader/4ba1620c8cc1a35b6dde7382cd19e9610f8361758a50c693e3f20ed163183990.ply",
+    "png": "https://subnet404.xyz/rounds/16/leader/4ba1620c8cc1a35b6dde7382cd19e9610f8361758a50c693e3f20ed163183990.png",
+    "generation_time": 24.722866385942325,
+    "size": 2045033
   }
 }
