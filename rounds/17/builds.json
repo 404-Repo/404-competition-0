@@ -540,8 +540,8 @@
     "commit": "adf783673b7b0a720e82941345e03c2b7d1c2162",
     "revealed_at_block": 7388609,
     "tag": "adf7836-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hdwucgaet:adf7836-contest-17"
   },
   "5HGQTJGYWcS1HRTruLpXSZ4oGbhhRq7DkMkWc2BL7NRQeEbq": {
     "repo": "kryviel/amen",
