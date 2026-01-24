@@ -40,5 +40,11 @@
     "png": "https://subnet404.xyz/rounds/17/5EeBsd1JqQnjC53eeEnBF7uPRK2AYtxvFp755zrJkBMQJpoA/5bb0e2bdf72c8aca17b084f35bc76f84d0ce6c4de6bcccc707f18fa0e1b8d129.png",
     "generation_time": 31.78780227806419,
     "size": 36634218
+  },
+  "daa1986fb642c96144bbd78bb87a39bb3064f50e5e7a0c897802202a7e2b818d": {
+    "ply": "https://subnet404.xyz/rounds/17/5EeBsd1JqQnjC53eeEnBF7uPRK2AYtxvFp755zrJkBMQJpoA/daa1986fb642c96144bbd78bb87a39bb3064f50e5e7a0c897802202a7e2b818d.ply",
+    "png": "https://subnet404.xyz/rounds/17/5EeBsd1JqQnjC53eeEnBF7uPRK2AYtxvFp755zrJkBMQJpoA/daa1986fb642c96144bbd78bb87a39bb3064f50e5e7a0c897802202a7e2b818d.png",
+    "generation_time": 29.949231774080545,
+    "size": 29030762
   }
 }
