@@ -28,8 +28,8 @@
     "commit": "b62f8e7f5ef3e9c3387593ffbe3fde7d58ac3325",
     "revealed_at_block": 7369805,
     "tag": "b62f8e7-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5geyrjrixu:b62f8e7-contest-17"
   },
   "5EbqZQ3XGQ6SjddgqpKPYwMX2WcPNjRdA6ZtJ3ZTqJCE6xxK": {
     "repo": "mokabetrade/nimqar",
@@ -204,7 +204,7 @@
     "commit": "9191c92a6ea4e73a106ffddebdd2127d3f4723b6",
     "revealed_at_block": 7369830,
     "tag": "9191c92-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GpqLp8HWCUQErXHoaj3Xa7Yii1CzPrgY775kAZaLjucEfHS": {
@@ -212,8 +212,8 @@
     "commit": "0a93bda8f330adad0698e766c9e47a3f464a90aa",
     "revealed_at_block": 7369846,
     "tag": "0a93bda-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gpqlp8hwc:0a93bda-contest-17"
   },
   "5G4CYmZjv5pMcXdfasHgwcyBPVSj1X5j1W8Lna5SphgSLgiX": {
     "repo": "Uglejo/zero-latency",
@@ -228,8 +228,8 @@
     "commit": "e745d03ac8d634a8e47980d40082d3022391deed",
     "revealed_at_block": 7369846,
     "tag": "e745d03-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5grhghlkje:e745d03-contest-17"
   },
   "5GBa8JUKVCoNj74w3H4JPLtYX8XN6D2esZMQq3no8yQQmpJR": {
     "repo": "Uglejo/code-furnace",
@@ -244,7 +244,7 @@
     "commit": "d1a4e56a0005cf153a91f88c380c9655a21ba41b",
     "revealed_at_block": 7369847,
     "tag": "d1a4e56-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EeoBSBE3ozwazUeK3vfy6D9uF4ajwMWAtTkQcEGzoK7YJUH": {
@@ -268,7 +268,7 @@
     "commit": "cbc4d27c3ae9f83a88b0866d2ce3a9d6d90f5139",
     "revealed_at_block": 7369847,
     "tag": "cbc4d27-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GsWQ79j1DtfVEPFnn8ATuZL4SFv4hxtaGp6jE6XyfNwNiNY": {
@@ -372,8 +372,8 @@
     "commit": "ed2177398dcdbd57bf6852136283524cb2ac76b6",
     "revealed_at_block": 7380145,
     "tag": "ed21773-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gghhp1hxd:ed21773-contest-17"
   },
   "5CZztA7b6RWpmm94YPt4mXQzmdfewBgcKobE4TqknQPdyk1m": {
     "repo": "jyotinayarman/goat-mv-effcent",
@@ -428,7 +428,7 @@
     "commit": "1f964e9e9fc782f1b7fa5d9f2abf5818af86af2d",
     "revealed_at_block": 7380235,
     "tag": "1f964e9-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CLumDEpBdLBSNaEbDfGiEfrw4ycpSwb73szMLFZYhhKxLdB": {
@@ -476,8 +476,8 @@
     "commit": "f0e199908fb3f05a9d43e5cfcf6a9440d20efdfd",
     "revealed_at_block": 7386539,
     "tag": "f0e1999-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ggvbpf9z4:f0e1999-contest-17"
   },
   "5F9HuKKfoMiPdLkAzGYvBEAEeRFLQmDBEKU2yjSgMAKUedby": {
     "repo": "itwm13/3DNextGenRSCC",
@@ -492,8 +492,8 @@
     "commit": "cb35a9ba69694a791230fd55c71222dba793efba",
     "revealed_at_block": 7386569,
     "tag": "cb35a9b-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gh7ykezkx:cb35a9b-contest-17"
   },
   "5HTMujxdVwf78DNbnLY8dAqyQLykd2mdSzZg47iA2Xs8NmTi": {
     "repo": "itwm13/n3DxGen2",
@@ -564,7 +564,7 @@
     "commit": "fa5b0628cf98795a1f5ec48efab32906a0bb4889",
     "revealed_at_block": 7388637,
     "tag": "fa5b062-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DScQA9A1u6WjdxbHhgyqDQWe46Jd6RGB97XontiqB2KnBRs": {
@@ -844,8 +844,8 @@
     "commit": "3252890149953f355e236dea8171c0958453e11e",
     "revealed_at_block": 7390036,
     "tag": "3252890-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gbccqeahx:3252890-contest-17"
   },
   "5Dh7KUSNUPMRVfqjrwkWsFw4myLLH1omZFhqw1kQEz8AtnCX": {
     "repo": "ripe-banana-11/special-winner",
@@ -924,8 +924,8 @@
     "commit": "bc3346c70d0f1e33b3d5c3c3ed66e9c4cc061876",
     "revealed_at_block": 7390373,
     "tag": "bc3346c-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gps5tzp9r:bc3346c-contest-17"
   },
   "5CXny3jf635n94nsWg9rFXF4jM1A8fYK3QfVjP97ctn7Vi3x": {
     "repo": "kryviel/new_new_method",
@@ -1020,7 +1020,7 @@
     "commit": "1f8de861ad88838c2e275d159188929b9ec4fe53",
     "revealed_at_block": 7390594,
     "tag": "1f8de86-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DXdqdu46KV6xoTBFubYFNme7ptRuZyppZtDoQBWAGUm5JGG": {
@@ -1084,7 +1084,7 @@
     "commit": "6b67168def51346a3f9d5a9fb3ab000c6550ae77",
     "revealed_at_block": 7390781,
     "tag": "6b67168-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GHCvLUD1X6if4ibzkrK2hfPjbj4C4Pf3jdbPeFEiH9CcJQg": {
@@ -1148,7 +1148,7 @@
     "commit": "4303797ba217bee1bda2d58b6bc6c2adddaa44cc",
     "revealed_at_block": 7390796,
     "tag": "4303797-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Epveqhg2krybZ8WhBCfMEBXZ1o9SQzSEGNpV9d3gLaGrP48": {
@@ -1220,8 +1220,8 @@
     "commit": "13b422077a90e277ee7260d99e50cf46477a87cb",
     "revealed_at_block": 7391313,
     "tag": "13b4220-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ggg6tyeam:13b4220-contest-17"
   },
   "5EhyeX1feuT5Ak9cwTqnuDvUBcGLTPvD4o75ciqABjo5veyR": {
     "repo": "jyotinayarman/goat-mv-effcent",
