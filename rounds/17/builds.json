@@ -148,7 +148,7 @@
     "commit": "eeada717c6d0794bb12f2fa88dd215b42210ae1a",
     "revealed_at_block": 7369828,
     "tag": "eeada71-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HKPVYWzczvFwAGLnwj3stc9uNKRgdito1i1wD7TwXUfzodf": {
@@ -316,8 +316,8 @@
     "commit": "c776a2c560653f806fd1b3bad186733cb26fcdd1",
     "revealed_at_block": 7370108,
     "tag": "c776a2c-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hqb9sydzf:c776a2c-contest-17"
   },
   "5HpoxQamjxj72UKJugTUkM46ZDu9SpZkmbWVG1pamRLwV4tT": {
     "repo": "alfonso-boss/silver_3D",
@@ -500,7 +500,7 @@
     "commit": "dc8836ddfae31faa64730635041e0022071bbc92",
     "revealed_at_block": 7386582,
     "tag": "dc8836d-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Ebm5cRFAzkHGtq3myyvnL3w6GVSPrAy4LY6HSFMNdQLnomj": {
@@ -604,7 +604,7 @@
     "commit": "0d6199d8bc646cd790ecd9aad5a2326ad5cf401c",
     "revealed_at_block": 7389493,
     "tag": "0d6199d-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GnESLTv7mVY1hb6uNg1jrXZEFixXxHudNuoE3DrFbhRx8qo": {
@@ -708,8 +708,8 @@
     "commit": "894f9ed5f4ab6ebeb29108fc93e1868f90210903",
     "revealed_at_block": 7389745,
     "tag": "894f9ed-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hkqskm6yk:894f9ed-contest-17"
   },
   "5Dek7faihaBt24N1onxfsuw9zczoYK6SXcGY4aaFX4hBfboV": {
     "repo": "phunggiahuy159/crispy-octo-pancake",
@@ -820,8 +820,8 @@
     "commit": "b0839685d212db7a4a76365ad02d86801950d8c0",
     "revealed_at_block": 7390016,
     "tag": "b083968-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h9fupvkem:b083968-contest-17"
   },
   "5Dhie1cz1a987kPFkvsVwxjKEg2uUMbSgm5N5vq6Drr8mDFH": {
     "repo": "kostik46/3d-gen-miner-v5",
@@ -876,7 +876,7 @@
     "commit": "4303797ba217bee1bda2d58b6bc6c2adddaa44cc",
     "revealed_at_block": 7390311,
     "tag": "4303797-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Ct1HWrdLgNh8wwrXwLtjQgtvwR5JoWH3f1iZdoChM1N7SJZ": {
@@ -1148,8 +1148,8 @@
     "commit": "4303797ba217bee1bda2d58b6bc6c2adddaa44cc",
     "revealed_at_block": 7390796,
     "tag": "4303797-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5h1xcgqu7y:4303797-contest-17"
   },
   "5Epveqhg2krybZ8WhBCfMEBXZ1o9SQzSEGNpV9d3gLaGrP48": {
     "repo": "phunggiahuy159/crispy-octo-pancake",

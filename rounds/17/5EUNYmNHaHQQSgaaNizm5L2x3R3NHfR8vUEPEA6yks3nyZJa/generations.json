@@ -352,5 +352,29 @@
     "png": "https://subnet404.xyz/rounds/17/5EUNYmNHaHQQSgaaNizm5L2x3R3NHfR8vUEPEA6yks3nyZJa/c2fb20eb7061c06f507240de305a5782911a0d7b58ccaa826f32da1e3b445fea.png",
     "generation_time": 30.23507403815165,
     "size": 27665258
+  },
+  "2e4f0c6d813573479ec81436bdc54ac49751f7c60a8cc56883071f89b0a6195a": {
+    "ply": "https://subnet404.xyz/rounds/17/5EUNYmNHaHQQSgaaNizm5L2x3R3NHfR8vUEPEA6yks3nyZJa/2e4f0c6d813573479ec81436bdc54ac49751f7c60a8cc56883071f89b0a6195a.ply",
+    "png": "https://subnet404.xyz/rounds/17/5EUNYmNHaHQQSgaaNizm5L2x3R3NHfR8vUEPEA6yks3nyZJa/2e4f0c6d813573479ec81436bdc54ac49751f7c60a8cc56883071f89b0a6195a.png",
+    "generation_time": 30.54674513405189,
+    "size": 10307946
+  },
+  "30b04929-0c46-49b2-b486-5e90fb302039": {
+    "ply": "https://subnet404.xyz/rounds/17/5EUNYmNHaHQQSgaaNizm5L2x3R3NHfR8vUEPEA6yks3nyZJa/30b04929-0c46-49b2-b486-5e90fb302039.ply",
+    "png": "https://subnet404.xyz/rounds/17/5EUNYmNHaHQQSgaaNizm5L2x3R3NHfR8vUEPEA6yks3nyZJa/30b04929-0c46-49b2-b486-5e90fb302039.png",
+    "generation_time": 34.77813276508823,
+    "size": 27853418
+  },
+  "c868f2a4cf04fadd4c12c6dfb5a9ff2b2f717b7674f9bdbe82c25e6938eabfbe": {
+    "ply": "https://subnet404.xyz/rounds/17/5EUNYmNHaHQQSgaaNizm5L2x3R3NHfR8vUEPEA6yks3nyZJa/c868f2a4cf04fadd4c12c6dfb5a9ff2b2f717b7674f9bdbe82c25e6938eabfbe.ply",
+    "png": "https://subnet404.xyz/rounds/17/5EUNYmNHaHQQSgaaNizm5L2x3R3NHfR8vUEPEA6yks3nyZJa/c868f2a4cf04fadd4c12c6dfb5a9ff2b2f717b7674f9bdbe82c25e6938eabfbe.png",
+    "generation_time": 31.23581179091707,
+    "size": 20103018
+  },
+  "582873dbe623fde4c001b43c800e89dea9663bfcccb7cb0c25727efd9d5497a5": {
+    "ply": "https://subnet404.xyz/rounds/17/5EUNYmNHaHQQSgaaNizm5L2x3R3NHfR8vUEPEA6yks3nyZJa/582873dbe623fde4c001b43c800e89dea9663bfcccb7cb0c25727efd9d5497a5.ply",
+    "png": "https://subnet404.xyz/rounds/17/5EUNYmNHaHQQSgaaNizm5L2x3R3NHfR8vUEPEA6yks3nyZJa/582873dbe623fde4c001b43c800e89dea9663bfcccb7cb0c25727efd9d5497a5.png",
+    "generation_time": 30.118465682026,
+    "size": 22129770
   }
 }
