@@ -588,7 +588,7 @@
     "commit": "2c145232849c62a12e0725ea448ae540a6e7f623",
     "revealed_at_block": 7389056,
     "tag": "2c14523-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EhWKnHZapXc6CxnvbGxzg8Skd2k93Vr3s5UzC9JR5yKcV5D": {
@@ -996,8 +996,8 @@
     "commit": "2cf2afdd32da546185e13065d33f5985de88f67a",
     "revealed_at_block": 7390553,
     "tag": "2cf2afd-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5enwhxtjzv:2cf2afd-contest-17"
   },
   "5HmGvbApWhmsXKTTi4AS8XsSrvhnPAk96bEX8yAaha89qhyU": {
     "repo": "ripe-banana-11/fictional-octo-happiness",
