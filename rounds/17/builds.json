@@ -1140,8 +1140,8 @@
     "commit": "4303797ba217bee1bda2d58b6bc6c2adddaa44cc",
     "revealed_at_block": 7390796,
     "tag": "4303797-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hnasxxjmm:4303797-contest-17"
   },
   "5H1XcgQu7yATr6f7q6xPvVQzqUpWrs9dDdYeP6bcSppCp6FH": {
     "repo": "phunggiahuy159/solid-potato",
