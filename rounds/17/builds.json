@@ -84,8 +84,8 @@
     "commit": "93ad4105cd3cf362a700a79b569488aef085460e",
     "revealed_at_block": 7369809,
     "tag": "93ad410-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fcgyqthls:93ad410-contest-17"
   },
   "5EvWt42rQy9sWXq5GkP6THgojKsVKemo7HZFBdjLBhpqgNSJ": {
     "repo": "TuttiGenerator/improved-chainsaw",
@@ -116,7 +116,7 @@
     "commit": "c3e3ac228bb45494f9d3a2f350891b1c1bf10c76",
     "revealed_at_block": 7369828,
     "tag": "c3e3ac2-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GCP74eiqJMr3aV4M1hnkwgKm4dW1sXuTwawVdJRBV9ueEy8": {
@@ -300,7 +300,7 @@
     "commit": "42b00ec4372c17be8f5193c3e268e7530e38d32a",
     "revealed_at_block": 7369848,
     "tag": "42b00ec-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Chf2z75o9GPSQdYiG25yiSMFe5yrGH7zmXrn8WLRfokSFpy": {
@@ -388,16 +388,16 @@
     "commit": "2bbb630381db0ae046bc9599a4b6b67f4eeb516a",
     "revealed_at_block": 7380184,
     "tag": "2bbb630-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ffq6zxs2v:2bbb630-contest-17"
   },
   "5FUSqk8GPvWrpi1bm44X5mQ8G9YEYd7cgn6dDGK2gkGbVqa2": {
     "repo": "manbeast3b/light-both",
     "commit": "25497f1c929edd491d5b6423c19595c584c22c89",
     "revealed_at_block": 7380197,
     "tag": "25497f1-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fusqk8gpv:25497f1-contest-17"
   },
   "5CACt2RPTHvATaESHQ2yN31sMg2aAMUPSe3MhhMLNAnX3xqU": {
     "repo": "manbeast3b/ca-re-qp1",
@@ -556,8 +556,8 @@
     "commit": "7ceb5f446eaf07d6cc161c6de12de41ffa7bd4a4",
     "revealed_at_block": 7388617,
     "tag": "7ceb5f4-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f1kpgzetq:7ceb5f4-contest-17"
   },
   "5H6egQaSuiBRoDJwhNZxWRt7YFytBvSPFK186BXs2npbvmH6": {
     "repo": "kryviel/new_method",
@@ -580,7 +580,7 @@
     "commit": "48a65515d3b193317c70cd1e57484f35330fa044",
     "revealed_at_block": 7388688,
     "tag": "48a6551-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EnDJHELtABvRDRbxJxnGfqh9onkDMuLVMuGEJMAfaqTnF2H": {
@@ -620,15 +620,15 @@
     "commit": "b9008a0a843a4c8134e4b882c4fd8c0405946999",
     "revealed_at_block": 7389557,
     "tag": "b9008a0-contest-17",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fz4qzzbr5:b9008a0-contest-17"
   },
   "5G1KnruoWGLVNCmBCNBsfvSbmNrhx9YEH6To9j7Xg4wyCH8x": {
     "repo": "ripe-banana-11/special-winner",
     "commit": "b9008a0a843a4c8134e4b882c4fd8c0405946999",
     "revealed_at_block": 7389564,
     "tag": "b9008a0-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5G6anhZF6pjsoV8exSReuXgKyAgCYgoHSKoJGsAxg5ftD7QG": {
@@ -788,8 +788,8 @@
     "commit": "e0536f38eae259ce2709912d381ef3242a3dfd92",
     "revealed_at_block": 7389988,
     "tag": "e0536f3-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fgxe3afaj:e0536f3-contest-17"
   },
   "5DVHQ3aRKnqnahxeRTmXUMmwPwouQVRNiVh1iKy4GAdLvcEi": {
     "repo": "kostik46/3d-gen-miner-v3",
@@ -916,8 +916,8 @@
     "commit": "3719bb7c74169a40af010db4e1d5fa132f8a55d1",
     "revealed_at_block": 7390372,
     "tag": "3719bb7-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fcyxvtbt2:3719bb7-contest-17"
   },
   "5Gps5tzp9RcZ3KQny7q72ZsDsPi1Wc6K3PWPCuyA2jxoYwVK": {
     "repo": "kostik46/3d-gen-miner-v9",
@@ -948,7 +948,7 @@
     "commit": "1680f97d2c0f84868a1e3e6e94d2a4cff0dad0fd",
     "revealed_at_block": 7390405,
     "tag": "1680f97-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FP3qpaSyRrmpEcFstA3NbCDFvRB6GErTrwTX93zNPJvwXfr": {
