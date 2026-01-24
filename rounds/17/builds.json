@@ -580,8 +580,8 @@
     "commit": "48a65515d3b193317c70cd1e57484f35330fa044",
     "revealed_at_block": 7388688,
     "tag": "48a6551-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5fwtavkyxw:48a6551-contest-17"
   },
   "5EnDJHELtABvRDRbxJxnGfqh9onkDMuLVMuGEJMAfaqTnF2H": {
     "repo": "tao-hunter/cuddly-computing-machine",
@@ -652,7 +652,7 @@
     "commit": "9856a199a38a8cb67d5c5c29cd65f1c400e1c47d",
     "revealed_at_block": 7389618,
     "tag": "9856a19-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HYaWNNRYCnpGxfURnihxSCd14mipUsMsL4AbN2wB6h7NBm4": {
