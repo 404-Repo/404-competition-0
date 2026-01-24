@@ -4,7 +4,7 @@
     "commit": "14a6bc604f79bbdf99844df32a041cbde70e07aa",
     "revealed_at_block": 7369804,
     "tag": "14a6bc6-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DAakdWtREMkTUMtVMVjVKWQHQFEvKZhcktuP9r2doUpweRk": {
@@ -12,8 +12,8 @@
     "commit": "a10e251b360087468429e1059f226a69865e3d4a",
     "revealed_at_block": 7369804,
     "tag": "a10e251-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5daakdwtre:a10e251-contest-17"
   },
   "5C7ziwR84CJPZAmXTrgjDosPFoJYRxybDsf3b4AjsGEApAqf": {
     "repo": "mokabetrade/cluster-mason",
@@ -100,15 +100,15 @@
     "commit": "0b993a704b59b731cf79f35ffc54f2eea07907c4",
     "revealed_at_block": 7369810,
     "tag": "0b993a7-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dfivkewfa:0b993a7-contest-17"
   },
   "5EA5rXrNhRyMHgmHU1gdEhgNqHecDt9MVyXEEiYpTYSB9vgX": {
     "repo": "Uglejo/rustwave",
     "commit": "967732e239b7f7b13fe17a99994293299b9312fe",
     "revealed_at_block": 7369828,
     "tag": "967732e-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FWAusDm9wN8vWKa3zcXrEeKS8gJyhuxmattiwGU7P7Ph843": {
@@ -348,7 +348,7 @@
     "commit": "88de8d6d1369e8339fa38241b04de4c235e26c4b",
     "revealed_at_block": 7370701,
     "tag": "88de8d6-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HbAF9aeJNowLreymmivEzg2dKNK2kG8f18U3NcJi9kiAUba": {
@@ -572,8 +572,8 @@
     "commit": "9f2e9f88380aa2e8e40aed840bc20bb508bb41b7",
     "revealed_at_block": 7388678,
     "tag": "9f2e9f8-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dscqa9a1u:9f2e9f8-contest-17"
   },
   "5FWtavKyXwQ6CnqM1LyvbGdhD4t7dE57oPe6attMT423HCgY": {
     "repo": "kryviel/amen",
@@ -700,7 +700,7 @@
     "commit": "4475e7cebd8ff2832a1d2b9ce1ad5581ea6c93a4",
     "revealed_at_block": 7389714,
     "tag": "4475e7c-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HKqSKm6yKG4hFFHb544qY3QdV4ubYPH6fUej8KZirdyEJC9": {
@@ -764,8 +764,8 @@
     "commit": "7ae04b41857d7a259d7637735834371ba59986fb",
     "revealed_at_block": 7389970,
     "tag": "7ae04b4-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dhtfudena:7ae04b4-contest-17"
   },
   "5CJTTvDapffdzhVp3tddM1GtbrooAUnWpkN7B3nR5ur5bkhh": {
     "repo": "kostik46/3d-gen-miner-v1",
@@ -780,7 +780,7 @@
     "commit": "609c9fc2fe267e7010fcae9582ce6ff7595f6dbb",
     "revealed_at_block": 7389985,
     "tag": "609c9fc-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FGxe3AFaJ3LsM5LJtxdBS8143WFEd9eNWVKErr29uV1K8wt": {
@@ -796,8 +796,8 @@
     "commit": "dab85bc80b66da050c3406346ed60e3255b798ca",
     "revealed_at_block": 7390002,
     "tag": "dab85bc-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dvhq3arkn:dab85bc-contest-17"
   },
   "5HpNP2uqmPH9NL4qM2pfV1teEfpJWf5FgUuvXMU5JiKmusSN": {
     "repo": "itwm13/3DNextGenOW",
@@ -828,8 +828,8 @@
     "commit": "a692774c82a8a77bd39a20f819ff47968627d57a",
     "revealed_at_block": 7390024,
     "tag": "a692774-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dhie1cz1a:a692774-contest-17"
   },
   "5EsauoyZkBTt6ay3k5yr7AfAfZqKKpg3Z1KXJ9BSGWmyDBeW": {
     "repo": "ripe-banana-11/friendly-octo-waddle",
@@ -900,7 +900,7 @@
     "commit": "09fd7fb7a2c9d94d48850749edd23ffa94d33bec",
     "revealed_at_block": 7390367,
     "tag": "09fd7fb-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5D5eJbkCNMDi5rQFFWJBT5Gr2LGwUYsF6jXFX8Q5iWQaJSP5": {
@@ -964,23 +964,23 @@
     "commit": "ee5cf7ab867774ad780bce0f88ab393c291c6f81",
     "revealed_at_block": 7390440,
     "tag": "ee5cf7a-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dczqsj5fy:ee5cf7a-contest-17"
   },
   "5DvfxsGDDAMZgFCeBFhmBFB7QJgT9Por4YPbR8ddPeGSQnEC": {
     "repo": "ripe-banana-11/fictional-octo-happiness",
     "commit": "b76b0d5fbfc24f6a48485c40ecc07cee55e7c2d3",
     "revealed_at_block": 7390453,
     "tag": "b76b0d5-contest-17",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dvfxsgdda:b76b0d5-contest-17"
   },
   "5DqvEqrfFgB1K2f3hc1i1CSt4NiQkW1LvNmQjKdhFogPmEN6": {
     "repo": "doubtsjohn-del/3d-gen-miner-v80",
     "commit": "412e0d74975da4863def39bdea64ac06e936b632",
     "revealed_at_block": 7390502,
     "tag": "412e0d7-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EqbTrXaP3T4tBMbRQXpHwD5gazgAfEFiPWZ87mLPu9Vo3MV": {
@@ -1060,7 +1060,7 @@
     "commit": "6b67168def51346a3f9d5a9fb3ab000c6550ae77",
     "revealed_at_block": 7390781,
     "tag": "6b67168-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5F4rpAMoU6SohWY3cP36FqajrggPaaHSrWAnj3AGb32DUvSr": {
@@ -1212,8 +1212,8 @@
     "commit": "212adda342db2922711994b3dfb41621e05f7301",
     "revealed_at_block": 7391269,
     "tag": "212adda-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5d1zekkmee:212adda-contest-17"
   },
   "5GgG6TYEAMnpb64KDXoHU4UcEdh3xNusSWyowUQ6AT1mZkF8": {
     "repo": "jyotinayarman/goat-ca-re-clean-dec13",
