@@ -36,7 +36,7 @@
     "commit": "7a044ab4433454a64c8409900c3d808af2dcd19e",
     "revealed_at_block": 7369806,
     "tag": "7a044ab-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EeBsd1JqQnjC53eeEnBF7uPRK2AYtxvFp755zrJkBMQJpoA": {
@@ -76,7 +76,7 @@
     "commit": "2308a26ed92550ce23ae7e3f5ebcfe4d69a0765c",
     "revealed_at_block": 7369808,
     "tag": "2308a26-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FCGYqThLseqGWdDXPuf4RsM8C5JhNAuDfnb1fo5pMW1uRPq": {
@@ -348,8 +348,8 @@
     "commit": "88de8d6d1369e8339fa38241b04de4c235e26c4b",
     "revealed_at_block": 7370701,
     "tag": "88de8d6-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dvzj2ktsi:88de8d6-contest-17"
   },
   "5HbAF9aeJNowLreymmivEzg2dKNK2kG8f18U3NcJi9kiAUba": {
     "repo": "tao-hunter/cuddly-computing-machine",
@@ -412,7 +412,7 @@
     "commit": "82d91602c99b19971ee92a4fc8001dbe1c93a53a",
     "revealed_at_block": 7380218,
     "tag": "82d9160-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EqHGDbh1DjE3LHWfBEdSNsP6DmWHzuwcP86wjHT81ubf5cy": {
@@ -508,7 +508,7 @@
     "commit": "2864e641f923747681b2175be8de972ac7d8c56e",
     "revealed_at_block": 7386609,
     "tag": "2864e64-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FHvGCpJrcskz9hGs6ceMf6ZQbFUt2jUKkfwmPtiorz4SiTk": {
@@ -524,7 +524,7 @@
     "commit": "ac1635bd6b19ef34982a8706c42c651e0c71e9e5",
     "revealed_at_block": 7388319,
     "tag": "ac1635b-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5GNhgi3UaZzXNv1LbV2Wqqm7qLaAFayjUcR3L2aJsRmnU6eg": {
@@ -692,16 +692,16 @@
     "commit": "6b67168def51346a3f9d5a9fb3ab000c6550ae77",
     "revealed_at_block": 7389701,
     "tag": "6b67168-contest-17",
-    "status": "pending",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5ehhjh23dj:6b67168-contest-17"
   },
   "5E7o8MARPEnPZ3hAjXyT6WRHVGi4KF1iddnDXZV12Rh4mtTk": {
     "repo": "phunggiahuy159/crispy-telegram",
     "commit": "4475e7cebd8ff2832a1d2b9ce1ad5581ea6c93a4",
     "revealed_at_block": 7389714,
     "tag": "4475e7c-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e7o8marpe:4475e7c-contest-17"
   },
   "5HKqSKm6yKG4hFFHb544qY3QdV4ubYPH6fUej8KZirdyEJC9": {
     "repo": "phunggiahuy159/verbose-octo-parakeet",
@@ -732,7 +732,7 @@
     "commit": "18a3241079a2a0ac60a958f7d88c1f9aa009d0f7",
     "revealed_at_block": 7389771,
     "tag": "18a3241-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CUjq3K3KHaect3ao3iB1CKmxE7E5S139zpxQRDqLCdgr6LQ": {
@@ -780,8 +780,8 @@
     "commit": "609c9fc2fe267e7010fcae9582ce6ff7595f6dbb",
     "revealed_at_block": 7389985,
     "tag": "609c9fc-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e4tm2ydhn:609c9fc-contest-17"
   },
   "5FGxe3AFaJ3LsM5LJtxdBS8143WFEd9eNWVKErr29uV1K8wt": {
     "repo": "itwm13/3DNextGenVTT",
@@ -900,8 +900,8 @@
     "commit": "09fd7fb7a2c9d94d48850749edd23ffa94d33bec",
     "revealed_at_block": 7390367,
     "tag": "09fd7fb-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e5fumwxk9:09fd7fb-contest-17"
   },
   "5D5eJbkCNMDi5rQFFWJBT5Gr2LGwUYsF6jXFX8Q5iWQaJSP5": {
     "repo": "kryviel/amen",
@@ -980,8 +980,8 @@
     "commit": "412e0d74975da4863def39bdea64ac06e936b632",
     "revealed_at_block": 7390502,
     "tag": "412e0d7-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dqveqrffg:412e0d7-contest-17"
   },
   "5EqbTrXaP3T4tBMbRQXpHwD5gazgAfEFiPWZ87mLPu9Vo3MV": {
     "repo": "doubtsjohn-del/3d-gen-miner-v81",
@@ -996,7 +996,7 @@
     "commit": "2cf2afdd32da546185e13065d33f5985de88f67a",
     "revealed_at_block": 7390553,
     "tag": "2cf2afd-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HmGvbApWhmsXKTTi4AS8XsSrvhnPAk96bEX8yAaha89qhyU": {
@@ -1044,8 +1044,8 @@
     "commit": "b480579cde6efd37c92864f976dc355e20ee8fec",
     "revealed_at_block": 7390709,
     "tag": "b480579-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5do4dpjvad:b480579-contest-17"
   },
   "5HbT83FZbKqvDHZpQ23BeMByv18om3XRMj1bLztq1wWjXbj4": {
     "repo": "ripe-banana-11/upgraded-octo-robot",
@@ -1060,8 +1060,8 @@
     "commit": "6b67168def51346a3f9d5a9fb3ab000c6550ae77",
     "revealed_at_block": 7390781,
     "tag": "6b67168-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5e711fb1vs:6b67168-contest-17"
   },
   "5F4rpAMoU6SohWY3cP36FqajrggPaaHSrWAnj3AGb32DUvSr": {
     "repo": "phunggiahuy159/crispy-telegram",
@@ -1124,7 +1124,7 @@
     "commit": "894f9ed5f4ab6ebeb29108fc93e1868f90210903",
     "revealed_at_block": 7390789,
     "tag": "894f9ed-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DJRidWRedmBkgdexSsTKNXxcC8K7wJAwxRB5R25M9gsGRXy": {
@@ -1204,8 +1204,8 @@
     "commit": "db2d17eeebbee9c395bb632556c5e4e67b63c5c5",
     "revealed_at_block": 7391250,
     "tag": "db2d17e-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5dk3wu2dvf:db2d17e-contest-17"
   },
   "5D1zEKkMeEA3mvXayLETcFpCnePu5mSegLbuMHpYh2jqbj9h": {
     "repo": "itwm13/nnmcc",
