@@ -44,8 +44,8 @@
     "commit": "dea7136b5f308b193711259bc04017f4af80a13c",
     "revealed_at_block": 7369806,
     "tag": "dea7136-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eebsd1jqq:dea7136-contest-17"
   },
   "5HgFLnnNj27wEq9WPNwjG6QTzcSZGU7mAZHYBMo3JUhc9DeC": {
     "repo": "mokabetrade/silver-funicular",
@@ -84,7 +84,7 @@
     "commit": "93ad4105cd3cf362a700a79b569488aef085460e",
     "revealed_at_block": 7369809,
     "tag": "93ad410-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EvWt42rQy9sWXq5GkP6THgojKsVKemo7HZFBdjLBhpqgNSJ": {
@@ -92,8 +92,8 @@
     "commit": "205bbb31b5886580e8e30289a13f34e75a49854b",
     "revealed_at_block": 7369809,
     "tag": "205bbb3-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5evwt42rqy:205bbb3-contest-17"
   },
   "5DfiVkeWFAGDqUE1cEuFUX3ubB1tUXpJo1eK6i864PZvpshb": {
     "repo": "mokabetrade/symmetrical-adventure",
@@ -292,8 +292,8 @@
     "commit": "62a66a1ef3c900d6b9c1cd8ddcf4cc5877057945",
     "revealed_at_block": 7369848,
     "tag": "62a66a1-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f2exchigd:62a66a1-contest-17"
   },
   "5Fqc6PRkG4VyFzzpWWMk5MWfwmUMfdFkhxDqfiYU37nFB8FW": {
     "repo": "Uglejo/stack-harbor",
@@ -388,7 +388,7 @@
     "commit": "2bbb630381db0ae046bc9599a4b6b67f4eeb516a",
     "revealed_at_block": 7380184,
     "tag": "2bbb630-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5FUSqk8GPvWrpi1bm44X5mQ8G9YEYd7cgn6dDGK2gkGbVqa2": {
@@ -396,7 +396,7 @@
     "commit": "25497f1c929edd491d5b6423c19595c584c22c89",
     "revealed_at_block": 7380197,
     "tag": "25497f1-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5CACt2RPTHvATaESHQ2yN31sMg2aAMUPSe3MhhMLNAnX3xqU": {
@@ -460,8 +460,8 @@
     "commit": "28b7d237ba57670feacfda08f04790b1f364a907",
     "revealed_at_block": 7385923,
     "tag": "28b7d23-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eyaaw3ts8:28b7d23-contest-17"
   },
   "5HRMuS5hdr4fRg6ZMSfc8AgTvkwhA6XWte7bkVSW9jR9ZP17": {
     "repo": "doubtsjohn-del/3d-gen-miner-v45",
@@ -484,8 +484,8 @@
     "commit": "7802d75159a8c71995490a62c8d7f645df81c348",
     "revealed_at_block": 7386554,
     "tag": "7802d75-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f9hukkfom:7802d75-contest-17"
   },
   "5Gh7ykeZKXMWyJ82MH8ipyWbxXGLFsjPHbfV8AdepqpLQtuy": {
     "repo": "itwm13/n3DxGen",
@@ -516,7 +516,7 @@
     "commit": "29b22fe593b3b63fdd6898fff0b6cfc090ebad05",
     "revealed_at_block": 7388258,
     "tag": "29b22fe-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5EUcuZAoFyWHQmD42xTNwBmsuzC5Nx2QEkU7jJcpHuzbZcwi": {
@@ -588,8 +588,8 @@
     "commit": "2c145232849c62a12e0725ea448ae540a6e7f623",
     "revealed_at_block": 7389056,
     "tag": "2c14523-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5endjhelta:2c14523-contest-17"
   },
   "5EhWKnHZapXc6CxnvbGxzg8Skd2k93Vr3s5UzC9JR5yKcV5D": {
     "repo": "ripe-banana-11/special-winner",
@@ -788,7 +788,7 @@
     "commit": "e0536f38eae259ce2709912d381ef3242a3dfd92",
     "revealed_at_block": 7389988,
     "tag": "e0536f3-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DVHQ3aRKnqnahxeRTmXUMmwPwouQVRNiVh1iKy4GAdLvcEi": {
@@ -812,8 +812,8 @@
     "commit": "5b559763d89281970c32142b9a6c793520f50e77",
     "revealed_at_block": 7390014,
     "tag": "5b55976-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f4hanqjax:5b55976-contest-17"
   },
   "5H9fUpVKEmZvbPxgBPocvhyht4RobjTmeLBCNdPHiJiL5KKX": {
     "repo": "itwm13/3DNextGenVTT8",
@@ -868,7 +868,7 @@
     "commit": "23c2ebb20101cca1c5be9248e4251e3ef3db6274",
     "revealed_at_block": 7390303,
     "tag": "23c2ebb-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5HVT5zmV2sReNm6a6ZWXiDPSit3zk2fTWgfppWcJCGBy5dmD": {
@@ -916,7 +916,7 @@
     "commit": "3719bb7c74169a40af010db4e1d5fa132f8a55d1",
     "revealed_at_block": 7390372,
     "tag": "3719bb7-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Gps5tzp9RcZ3KQny7q72ZsDsPi1Wc6K3PWPCuyA2jxoYwVK": {
@@ -956,7 +956,7 @@
     "commit": "8b24b94b983255b061b6f76f39946fb9f8026450",
     "revealed_at_block": 7390413,
     "tag": "8b24b94-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DCzQsj5fY7sPCyqk7BaG8NxctEu52iWxTRy488XAMYVfnPK": {
@@ -988,8 +988,8 @@
     "commit": "58e801be7ae63f5a709d4ac9ef50084f696fe1c9",
     "revealed_at_block": 7390522,
     "tag": "58e801b-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5eqbtrxap3:58e801b-contest-17"
   },
   "5ENWhxtJZVeX1PW7y9ZKBnFfvZcbKgzpQKx2Xn1LmgBffMDg": {
     "repo": "doubtsjohn-del/3d-gen-miner-v82",
@@ -1068,8 +1068,8 @@
     "commit": "4475e7cebd8ff2832a1d2b9ce1ad5581ea6c93a4",
     "revealed_at_block": 7390781,
     "tag": "4475e7c-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5f4rpamou6:4475e7c-contest-17"
   },
   "5CXHAZrHofQzL4utmWySdvnLD8LdNL9N96pjyWsZDcYaCzt1": {
     "repo": "phunggiahuy159/psychic-train",
@@ -1196,7 +1196,7 @@
     "commit": "fdf3c50bee96638a2dbc9bb337cc171e1e95f623",
     "revealed_at_block": 7391132,
     "tag": "fdf3c50-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5Dk3Wu2dvfG9Wew8KxS4JfjFWxkARKVJnL5LDEHs3swsrrq5": {
