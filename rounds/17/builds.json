@@ -276,8 +276,8 @@
     "commit": "135d73cbdc185556bd29ca59f9fbbeca976e92d7",
     "revealed_at_block": 7369848,
     "tag": "135d73c-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5gswq79j1d:135d73c-contest-17"
   },
   "5HmcfwpA3kQuLa2U7N4Xhn4vkeHh3zWMXYrvVLhGsnztCMzC": {
     "repo": "Uglejo/cosmic-bits",
@@ -756,7 +756,7 @@
     "commit": "72145909313f9c6ed408ed987a8625ba774db6da",
     "revealed_at_block": 7389955,
     "tag": "7214590-contest-17",
-    "status": "pending",
+    "status": "in_progress",
     "docker_image": null
   },
   "5DhtFUDenAuSzn3EVhjL29UFWJbT1MoUVAJ83Ft94biBy25e": {
