@@ -140,8 +140,8 @@
     "commit": "516943bc644caf862211e20c2438897de7a7a2e2",
     "revealed_at_block": 7369828,
     "tag": "516943b-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hjcsufkfu:516943b-contest-17"
   },
   "5HU3ytPKU6kUwH8Fk7BwrKhk4k41NqJ7zT7updCWyoxf8oht": {
     "repo": "Uglejo/cloud-anvil",
@@ -284,8 +284,8 @@
     "commit": "34780bf0369855d03ac64cb166e4403ebc245cdc",
     "revealed_at_block": 7369848,
     "tag": "34780bf-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hmcfwpa3k:34780bf-contest-17"
   },
   "5F2EXchigdSUvt4hoakYyZvqx1FERo8p8TqWR9M2DrmGzxtA": {
     "repo": "Uglejo/kernel-drift",
@@ -324,8 +324,8 @@
     "commit": "e1df4337bb66b5e0fd7e0674405e96945a06cc0a",
     "revealed_at_block": 7370115,
     "tag": "e1df433-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpoxqamjx:e1df433-contest-17"
   },
   "5CqWd4nN43q5UCKtJco5BnYkEMSU5WNoSUCux53mRzEUtxb1": {
     "repo": "alfonso-boss/golden_3D",
@@ -804,8 +804,8 @@
     "commit": "626ed1bba92ffc8c987ecd4a3ab70ea1f1156bfe",
     "revealed_at_block": 7390004,
     "tag": "626ed1b-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hpnp2uqmp:626ed1b-contest-17"
   },
   "5F4HaNQJAXDhirU51GTz4vBvcEuUo3YSfhKuBT7qix35DkHP": {
     "repo": "kostik46/3d-gen-miner-v4",
@@ -1180,8 +1180,8 @@
     "commit": "c93685550f169e35c9c10a0cf29682163b654be0",
     "revealed_at_block": 7390974,
     "tag": "c936855-contest-17",
-    "status": "in_progress",
-    "docker_image": null
+    "status": "success",
+    "docker_image": "europe-docker.pkg.dev/gen-456515/competition-0/5hghp1edzf:c936855-contest-17"
   },
   "5CQD2E1WTENZ4WCjL8YY4ctvgyLKeixcg5oSabxcAL5CNvt8": {
     "repo": "jyotinayarman/knn-dec1-newminus-1",
