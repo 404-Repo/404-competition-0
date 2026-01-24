@@ -520,5 +520,17 @@
     "png": "https://subnet404.xyz/rounds/17/leader/23d3b013d1856e2c6ecc8ae7f5900de7c9927d4dc45ab252b57a4c8b2cd6aae6.png",
     "generation_time": 29.51964268181473,
     "size": 43701866
+  },
+  "f76044755373c33b51c7933d53a1ee46a5f2bc6937b76b83357527224113ef20": {
+    "ply": "https://subnet404.xyz/rounds/17/leader/f76044755373c33b51c7933d53a1ee46a5f2bc6937b76b83357527224113ef20.ply",
+    "png": "https://subnet404.xyz/rounds/17/leader/f76044755373c33b51c7933d53a1ee46a5f2bc6937b76b83357527224113ef20.png",
+    "generation_time": 31.9610447390005,
+    "size": 74422123
+  },
+  "f671b808641e2b6db095ea9b87c475b07f9acf77e7b5254ee307aced515b0964": {
+    "ply": "https://subnet404.xyz/rounds/17/leader/f671b808641e2b6db095ea9b87c475b07f9acf77e7b5254ee307aced515b0964.ply",
+    "png": "https://subnet404.xyz/rounds/17/leader/f671b808641e2b6db095ea9b87c475b07f9acf77e7b5254ee307aced515b0964.png",
+    "generation_time": 27.22605737997219,
+    "size": 22602858
   }
 }
