@@ -502,5 +502,11 @@
     "png": "https://subnet404.xyz/rounds/17/5FWtavKyXwQ6CnqM1LyvbGdhD4t7dE57oPe6attMT423HCgY/3efff5f705c095a29e3add0b29d80f6145ecbb5d4988d81fabb8b12554c9a1f5.png",
     "generation_time": 28.73846247466281,
     "size": 39892074
+  },
+  "0b2db5a6e2decfdd7efdd0c01891840f613d01af77c95ff3507127c2fc07887b": {
+    "ply": "https://subnet404.xyz/rounds/17/5FWtavKyXwQ6CnqM1LyvbGdhD4t7dE57oPe6attMT423HCgY/0b2db5a6e2decfdd7efdd0c01891840f613d01af77c95ff3507127c2fc07887b.ply",
+    "png": "https://subnet404.xyz/rounds/17/5FWtavKyXwQ6CnqM1LyvbGdhD4t7dE57oPe6attMT423HCgY/0b2db5a6e2decfdd7efdd0c01891840f613d01af77c95ff3507127c2fc07887b.png",
+    "generation_time": 28.110190170817077,
+    "size": 19343210
   }
 }
