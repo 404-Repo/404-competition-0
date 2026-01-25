@@ -748,5 +748,11 @@
     "png": "https://subnet404.xyz/rounds/17/5FCGYqThLseqGWdDXPuf4RsM8C5JhNAuDfnb1fo5pMW1uRPq/00e01edab446e6a70697f02695a7d99ec8524a3b144d8421bb328844c55822a2.png",
     "generation_time": 30.59668108774349,
     "size": 40535402
+  },
+  "ed3f1c11b18ca722904b6a05094d8b69c7b0917ad0afae9d3232b66879e5f33e": {
+    "ply": "https://subnet404.xyz/rounds/17/5FCGYqThLseqGWdDXPuf4RsM8C5JhNAuDfnb1fo5pMW1uRPq/ed3f1c11b18ca722904b6a05094d8b69c7b0917ad0afae9d3232b66879e5f33e.ply",
+    "png": "https://subnet404.xyz/rounds/17/5FCGYqThLseqGWdDXPuf4RsM8C5JhNAuDfnb1fo5pMW1uRPq/ed3f1c11b18ca722904b6a05094d8b69c7b0917ad0afae9d3232b66879e5f33e.png",
+    "generation_time": 27.619365288875997,
+    "size": 53219178
   }
 }
