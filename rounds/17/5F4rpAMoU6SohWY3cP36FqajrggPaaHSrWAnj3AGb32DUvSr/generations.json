@@ -586,5 +586,11 @@
     "png": "https://subnet404.xyz/rounds/17/5F4rpAMoU6SohWY3cP36FqajrggPaaHSrWAnj3AGb32DUvSr/89c71c6c34123d0aacc5483f1f3d0ed6787538e244ca040992657ff0430fa336.png",
     "generation_time": 33.01142660994083,
     "size": 40623210
+  },
+  "dbe4de69f95e9b930f512ea4a8b39ee4c1aa5bb7ee90763b65ddf6c2eaa768ad": {
+    "ply": "https://subnet404.xyz/rounds/17/5F4rpAMoU6SohWY3cP36FqajrggPaaHSrWAnj3AGb32DUvSr/dbe4de69f95e9b930f512ea4a8b39ee4c1aa5bb7ee90763b65ddf6c2eaa768ad.ply",
+    "png": "https://subnet404.xyz/rounds/17/5F4rpAMoU6SohWY3cP36FqajrggPaaHSrWAnj3AGb32DUvSr/dbe4de69f95e9b930f512ea4a8b39ee4c1aa5bb7ee90763b65ddf6c2eaa768ad.png",
+    "generation_time": 30.020663370378315,
+    "size": 46732138
   }
 }
