@@ -150,13 +150,5 @@
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5gnesltv7m:0568ce4-contest-14",
     "weight": 0.6000000000000001,
     "effective_block": 7391389
-  },
-  {
-    "hotkey": "5HGQTJGYWcS1HRTruLpXSZ4oGbhhRq7DkMkWc2BL7NRQeEbq",
-    "repo": "kryviel/amen",
-    "commit": "48a65515d3b193317c70cd1e57484f35330fa044",
-    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5hgqtjgywc:48a6551-contest-17",
-    "weight": 1.0,
-    "effective_block": 7412987
   }
 ]
