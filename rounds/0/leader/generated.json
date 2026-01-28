@@ -6,5 +6,21 @@
     "size": 0,
     "attempts": 0,
     "distance": 0.0
+  },
+  "8aae01cd00a3fcf83b67a00233a9bf588a52349f667ba6bff447e1a6979723b3": {
+    "ply": null,
+    "png": null,
+    "generation_time": 0.0,
+    "size": 0,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "959f1322729d09c2369ea1ee4c52d36a96832cda95fe4a263bff730f9d12c61f": {
+    "ply": "https://subnet404.xyz/rounds/0/leader/generated/959f1322729d09c2369ea1ee4c52d36a96832cda95fe4a263bff730f9d12c61f.ply",
+    "png": null,
+    "generation_time": 28.42782420758158,
+    "size": 16054890,
+    "attempts": 0,
+    "distance": 0.0
   }
 }
