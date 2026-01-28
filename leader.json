@@ -120,10 +120,10 @@
     "effective_block": 7290635
   },
   {
-    "hotkey": "5GnESLTv7mVY1hb6uNg1jrXZEFixXxHudNuoE3DrFbhRx8qo",
-    "repo": "ripe-banana-11/refactored-spoon",
-    "commit": "0568ce40c772bb9bd446e47a8a9954966aafbb48",
-    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5gnesltv7m:0568ce4-contest-14",
+    "hotkey": "5E7eSeRr2aHzCV7SkY4a2Pi5NXHrU4anZz3phEQgn4HCen2B",
+    "repo": "404-Repo/404-base-miner",
+    "commit": "8af68def6f1392ad3d75bd790f78b4700748f354",
+    "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5e7eserr2a:97f5a7e-test1-0",
     "weight": 1.0,
     "effective_block": 7312235
   }
