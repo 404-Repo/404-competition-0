@@ -94,5 +94,21 @@
     "size": 23790954,
     "attempts": 0,
     "distance": 0.0
+  },
+  "3d09a86acfe09d185dd042db3b1053bdf8a4796dc848182356e6cbf19d5b62aa": {
+    "ply": "https://subnet404.xyz/rounds/0/leader/generated/3d09a86acfe09d185dd042db3b1053bdf8a4796dc848182356e6cbf19d5b62aa.ply",
+    "png": null,
+    "generation_time": 29.49799537472427,
+    "size": 22633322,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "9cfb7150-5cb4-4d33-98a6-3082aa908016": {
+    "ply": "https://subnet404.xyz/rounds/0/leader/generated/9cfb7150-5cb4-4d33-98a6-3082aa908016.ply",
+    "png": null,
+    "generation_time": 30.6233397917822,
+    "size": 49447018,
+    "attempts": 0,
+    "distance": 0.0
   }
 }
