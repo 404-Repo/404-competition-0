@@ -1,3 +1,6 @@
+# CLOSED
+New competition: https://github.com/404-Repo/404-competition-1/blob/main/README.md
+
 # Competition State Repository
 
 This repository contains the complete state of the 404-GEN competition. All files are append-only or single-writer, ensuring a clean audit trail.
@@ -351,3 +354,4 @@ DUELS
 ## External Storage
 
 PLY files and rendered PNGs are stored in R2 (Cloudflare). URLs in `generations.json` reference this storage.
+
