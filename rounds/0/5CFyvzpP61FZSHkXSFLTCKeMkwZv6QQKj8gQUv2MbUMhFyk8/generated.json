@@ -994,7 +994,7 @@
   "2b9204a6a17f049df0a6776f87d32aa2afacf2ff25446b37b85247295fdd5bb7": {
     "ply": "https://subnet404.xyz/rounds/0/5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8/generated/2b9204a6a17f049df0a6776f87d32aa2afacf2ff25446b37b85247295fdd5bb7.ply",
     "png": "https://subnet404.xyz/rounds/0/5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8/generated/2b9204a6a17f049df0a6776f87d32aa2afacf2ff25446b37b85247295fdd5bb7.png",
-    "generation_time": 32.47429862525314,
+    "generation_time": 30.34059749962762,
     "size": 75769707,
     "attempts": 0,
     "distance": 0.0
@@ -1002,8 +1002,24 @@
   "280cb320b8ebae4d55af9a8b46eac90a171010f137083c4799259aee6f4944e5": {
     "ply": "https://subnet404.xyz/rounds/0/5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8/generated/280cb320b8ebae4d55af9a8b46eac90a171010f137083c4799259aee6f4944e5.ply",
     "png": "https://subnet404.xyz/rounds/0/5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8/generated/280cb320b8ebae4d55af9a8b46eac90a171010f137083c4799259aee6f4944e5.png",
-    "generation_time": 20.324873458128422,
-    "size": 42047850,
+    "generation_time": 10.782107625156641,
+    "size": 42042474,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "5be062441a49a42c970d43c6462b2f0705b4809c7faa39dd305bcddc7c4d21bb": {
+    "ply": "https://subnet404.xyz/rounds/0/5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8/generated/5be062441a49a42c970d43c6462b2f0705b4809c7faa39dd305bcddc7c4d21bb.ply",
+    "png": "https://subnet404.xyz/rounds/0/5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8/generated/5be062441a49a42c970d43c6462b2f0705b4809c7faa39dd305bcddc7c4d21bb.png",
+    "generation_time": 16.650735958013684,
+    "size": 33792106,
+    "attempts": 0,
+    "distance": 0.0
+  },
+  "803a6a041df946162f235acb72636c7a2d39908ba4c9b2e00578ac9c49d3d414": {
+    "ply": "https://subnet404.xyz/rounds/0/5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8/generated/803a6a041df946162f235acb72636c7a2d39908ba4c9b2e00578ac9c49d3d414.ply",
+    "png": "https://subnet404.xyz/rounds/0/5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8/generated/803a6a041df946162f235acb72636c7a2d39908ba4c9b2e00578ac9c49d3d414.png",
+    "generation_time": 18.946151750162244,
+    "size": 87892587,
     "attempts": 0,
     "distance": 0.0
   }
