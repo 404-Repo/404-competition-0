@@ -1,0 +1,11 @@
+{
+  "5DoZ6AB46d2Dt5WswYfA5Lt45CGVWnVWc9tqFUY69F9kZM1B": {
+    "hotkey": "5DoZ6AB46d2Dt5WswYfA5Lt45CGVWnVWc9tqFUY69F9kZM1B",
+    "outcome": "rejected",
+    "checked_prompts": 128,
+    "failed_prompts": 47,
+    "failed_critical": 6,
+    "generation_time": 15.08640197920613,
+    "reason": "Non-critical mismatches (47) exceed tolerance (6); Critical mismatches (6) exceed tolerance (1)"
+  }
+}
