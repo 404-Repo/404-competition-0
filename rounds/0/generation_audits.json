@@ -1,0 +1,11 @@
+{
+  "5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8": {
+    "hotkey": "5CFyvzpP61FZSHkXSFLTCKeMkwZv6QQKj8gQUv2MbUMhFyk8",
+    "outcome": "passed",
+    "checked_prompts": 128,
+    "failed_prompts": 0,
+    "failed_critical": 0,
+    "generation_time": 16.034427791601047,
+    "reason": ""
+  }
+}
