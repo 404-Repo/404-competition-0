@@ -5,5 +5,16 @@
       "dba1920c67d670407997bcb38f9c097e336e9f870fdb3085d83e9521848bac2d",
       "2c2f732b-da4a-49e3-beea-21ed30754ebf"
     ]
+  },
+  {
+    "hotkey": "5DoZ6AB46d2Dt5WswYfA5Lt45CGVWnVWc9tqFUY69F9kZM1B",
+    "critical_prompts": [
+      "0f0fd7bc7966af861e146f14e8648632695326f731c0f064e6e4693406c7d80c",
+      "165dc932a77801cab031d7c6bd449c184ad8a1ac29ecd4b786cb7cc119438f54",
+      "2c2f732b-da4a-49e3-beea-21ed30754ebf",
+      "37d2024bdc2ccf830e968dff32ba1fe3d7626fb1af776416c22ef891fa83da1c",
+      "3b488ac1-5bdb-4454-a122-1dba24ce9314",
+      "4226246a45d478908e180f43e638d195fbf02836a2f56b949c575c32781602ed"
+    ]
   }
 ]
