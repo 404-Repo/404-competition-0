@@ -156,7 +156,7 @@
     "repo": "ripe-banana-11/refactored-spoon",
     "commit": "0568ce40c772bb9bd446e47a8a9954966aafbb48",
     "docker": "europe-docker.pkg.dev/gen-456515/competition-0/5gnesltv7m:0568ce4-contest-14",
-    "weight": 0.4000000000000001,
+    "weight": 0.4,
     "effective_block": 7412986
   }
 ]
